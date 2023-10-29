@@ -1,0 +1,7 @@
+owner = 
+controller = 
+add_core = 
+add_core = CAT
+trade_goods = grain
+life_rating = 35
+

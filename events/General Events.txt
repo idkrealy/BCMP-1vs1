@@ -1,0 +1,51 @@
+#If you create a country specific event make sure you add the tag to the list of tags to not get the broad event
+
+country_event = {
+	id = 600000
+	allow_multiple_instances = yes
+	trigger = {
+	ai = no
+	NOT = {
+		OR = {
+			#add tags of countries with specific events here
+			has_leader = "Sam Hyde"
+		}
+	}
+	mean_time_to_happen = {
+		days = 1
+	}
+	title = "A New General Arrives"
+	desc = "ROBESPEER, I'M COMING TO KILL YOU! In Vicky2, right? NO, IN REAL LIFE."
+	immediate = {
+		define_general = {
+			name = "Sam Hyde"
+			#+1 attack, +1 defence. +10% morale
+			personality = defence_4.3
+			#+3 attack, +3 defence
+			background = attack_4.3
+		}
+	}
+	option = {
+		name = "He can't keep getting away with it..."		
+	}
+}
+
+#1865 country tag clear
+country_event = {
+	id = 79797979
+	trigger = {
+		year = 1865
+		has_country_flag = conquerable_1865
+	}
+	mean_time_to_happen = {
+		days = 1
+	}
+	title = "1865 Flag Protection"
+	desc = "Clearing the protection flag off of 1865 protected nations."
+	immediate = {
+		clr_country_flag = conquerable_1865
+	}
+	option = {
+		name = "You may now declare, and be declared on, with significant wargoals."		
+	}
+}

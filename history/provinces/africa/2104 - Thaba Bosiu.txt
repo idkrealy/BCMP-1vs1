@@ -1,0 +1,16 @@
+owner = 
+controller = 
+add_core = 
+trade_goods = grain
+life_rating = 35
+colonial = 2
+1836.1.2 = {
+	owner = 
+	controller = 
+	colonial = 0
+}
+1861.1.1 = {
+	colonial = 1
+}
+
+
