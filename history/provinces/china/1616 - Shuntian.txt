@@ -1,6 +1,6 @@
-owner = CHI
-controller = CHI
-add_core = CHI
+owner = 
+controller = 
+add_core = 
 trade_goods = tea
 life_rating = 32
 

@@ -1,6 +1,6 @@
-owner = ENG
-controller = ENG
-add_core = ENG
+owner = 
+controller = 
+add_core = 
 trade_goods = coal
 life_rating = 42
 railroad = 1

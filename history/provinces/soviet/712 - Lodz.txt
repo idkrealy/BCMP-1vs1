@@ -1,6 +1,6 @@
-owner = RUS
+owner = 
 
-controller = RUS
+controller = 
 
 add_core = PLC
 

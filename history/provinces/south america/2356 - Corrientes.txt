@@ -1,8 +1,8 @@
-owner = ARG
+owner = 
 
-controller = ARG
+controller = 
 
-add_core = ARG
+add_core = 
 
 trade_goods = silk
 life_rating = 35

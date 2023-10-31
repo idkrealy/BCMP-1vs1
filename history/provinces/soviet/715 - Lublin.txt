@@ -1,5 +1,5 @@
-owner = RUS
-controller = RUS
+owner = 
+controller = 
 add_core = PLC
 #add_core = RUT
 #add_core = PLC

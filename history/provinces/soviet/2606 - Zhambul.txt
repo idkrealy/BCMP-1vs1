@@ -1,8 +1,8 @@
-add_core = RUS
+add_core = 
 trade_goods = coal
 life_rating = 25
 1861.1.1 = {
-	owner = RUS
-	controller = RUS
+	owner = 
+	controller = 
 	colonial = 2
 }

@@ -1,6 +1,6 @@
-owner = ARG
-controller = ARG
-add_core = ARG
+owner = 
+controller = 
+add_core = 
 trade_goods = tea
 life_rating = 35
 

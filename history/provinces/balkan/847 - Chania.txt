@@ -1,7 +1,7 @@
 owner = EGY
 controller = EGY
 #add_core = EGY
-add_core = GRE
+add_core = 
 trade_goods = fruit
 life_rating = 35
 

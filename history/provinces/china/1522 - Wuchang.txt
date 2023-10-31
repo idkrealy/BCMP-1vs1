@@ -1,6 +1,6 @@
-owner = CHI
-controller = CHI
-add_core = CHI
+owner = 
+controller = 
+add_core = 
 #add_core = TPG
 #add_core = HNN
 trade_goods = iron

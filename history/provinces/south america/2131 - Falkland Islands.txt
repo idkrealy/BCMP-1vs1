@@ -1,6 +1,6 @@
-owner = ENG
-controller = ENG
-add_core = ARG
+owner = 
+controller = 
+add_core = 
 trade_goods = wool
 life_rating = 30
 colonial = 2

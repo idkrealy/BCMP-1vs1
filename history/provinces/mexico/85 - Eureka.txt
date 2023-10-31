@@ -1,11 +1,11 @@
-owner = MEX
-controller = MEX
-add_core = MEX
+owner = 
+controller = 
+add_core = 
 #add_core = CAL
 trade_goods = fish
 life_rating = 40
 1861.1.1 = {
-owner = USA
-controller = USA
-add_core = USA
+owner = 
+controller = 
+add_core = 
 }

@@ -1,8 +1,8 @@
-owner = RUS
+owner = 
 
-controller = RUS
+controller = 
 
-add_core = RUS
+add_core = 
 
 add_core = LAT
 

@@ -1,5 +1,5 @@
-owner = RPL
-controller = RPL
+owner = 
+controller = 
 add_core = CAN
 
 trade_goods = grain
