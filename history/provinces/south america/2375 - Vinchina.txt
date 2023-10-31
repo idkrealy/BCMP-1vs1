@@ -1,6 +1,6 @@
 owner = 
 controller = 
-add_core = BOL
+add_core = 
 add_core = 
 trade_goods = iron
 life_rating = 35

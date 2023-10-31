@@ -1,5 +1,5 @@
-owner = DEN
-controller = DEN
+owner = 
+controller = 
 #add_core = KRN
 add_core = HND
 trade_goods = cattle

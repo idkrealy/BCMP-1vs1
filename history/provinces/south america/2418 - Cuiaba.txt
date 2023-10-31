@@ -1,6 +1,6 @@
-owner = BRZ
-controller = BRZ
-add_core = BRZ
+owner = 
+controller = 
+add_core = 
 trade_goods = fruit
 life_rating = 25
 

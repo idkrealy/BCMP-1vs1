@@ -1,7 +1,7 @@
-owner = EGY
-controller = EGY
+owner = 
+controller = 
 add_core = 
-add_core = EGY
+add_core = 
 trade_goods = fruit
 life_rating = 35
 1861.1.1 = {

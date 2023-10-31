@@ -1,6 +1,6 @@
-owner = BOL
-controller = BOL
-add_core = BOL
+owner = 
+controller = 
+add_core = 
 add_core = 
 trade_goods = wool
 life_rating = 30
