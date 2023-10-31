@@ -1,6 +1,6 @@
-owner = AUS
-controller = AUS
-add_core = AUS
+owner = 
+controller = 
+add_core = 
 add_core = SLO
 
 trade_goods = cotton

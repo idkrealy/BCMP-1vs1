@@ -1,6 +1,6 @@
-owner = BAL
-controller = BAL
-add_core = BAL
+owner = 
+controller = 
+add_core = 
 #add_core = INO
 trade_goods = timber
 life_rating = 30

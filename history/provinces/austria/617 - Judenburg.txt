@@ -1,6 +1,6 @@
-owner = AUS
-controller = AUS
-add_core = AUS
+owner = 
+controller = 
+add_core = 
 trade_goods = iron
 life_rating = 35
 state_building = {

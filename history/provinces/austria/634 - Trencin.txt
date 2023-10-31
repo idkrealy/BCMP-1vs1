@@ -1,6 +1,6 @@
-owner = AUS
-controller = AUS
-add_core = AUS
+owner = 
+controller = 
+add_core = 
 add_core = SLV
 add_core = HUN
 #add_core = CZH
