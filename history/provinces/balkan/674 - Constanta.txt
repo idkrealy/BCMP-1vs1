@@ -1,13 +1,13 @@
 owner = 
 controller = 
 add_core = 
-add_core = WAL
+add_core = 
 #add_core = ROM
 
 add_core = BUL 
 trade_goods = grain
 life_rating = 35
 1861.1.1 = {
-	remove_core = WAL
+	remove_core = 
 }
 

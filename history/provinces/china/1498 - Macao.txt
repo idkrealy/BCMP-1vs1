@@ -1,5 +1,5 @@
-owner = POR
-controller = POR
+owner = 
+controller = 
 add_core = 
 #add_core = TPG
 colonial = 2

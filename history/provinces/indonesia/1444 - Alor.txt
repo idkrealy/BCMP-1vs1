@@ -1,5 +1,5 @@
-owner = POR
-controller = POR
+owner = 
+controller = 
 trade_goods = tropical_wood
 life_rating = 30
 colonial = 1

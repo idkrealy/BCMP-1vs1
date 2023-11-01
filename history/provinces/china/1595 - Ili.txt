@@ -1,8 +1,8 @@
 add_core = 
-add_core = XIN
+add_core = 
 trade_goods = sulphur
 life_rating = 32
 
-owner = XIN
-controller = XIN
+owner = 
+controller = 
 

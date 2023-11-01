@@ -9,6 +9,9 @@ literacy = 0.87
 civilized = yes
 is_releasable_vassal = no
 
+#GreaterPowers = prestige
+prestige = 90
+
 # Political reforms
 slavery = no_slavery
 upper_house_composition = appointed
@@ -31,8 +34,8 @@ school_reforms = no_schools
 ruling_party = GER_conservative
 upper_house = {
 	fascist = 0
-	liberal = 55
-	conservative = 25
+	liberal = 25
+	conservative = 55
 	reactionary = 5
 	anarcho_liberal = 5
 	socialist = 5

@@ -1,5 +1,5 @@
-owner = POR
-controller = POR
+owner = 
+controller = 
 #add_core = MAH
 add_core = HND
 naval_base = 1

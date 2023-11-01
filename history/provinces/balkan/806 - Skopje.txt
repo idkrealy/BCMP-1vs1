@@ -2,7 +2,7 @@ owner =
 controller = 
 add_core = 
 add_core = BUL
-add_core = SER
+add_core = 
 
 add_core = 
 trade_goods = timber

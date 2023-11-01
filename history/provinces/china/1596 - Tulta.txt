@@ -1,9 +1,9 @@
 
 add_core = 
-add_core = XIN
+add_core = 
 trade_goods = cotton
 life_rating = 32
 
-owner = XIN
-controller = XIN
+owner = 
+controller = 
 
