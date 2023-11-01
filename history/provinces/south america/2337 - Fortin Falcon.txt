@@ -1,7 +1,7 @@
 owner = 
 controller = 
 add_core = 
-add_core = PRG
+add_core = 
 trade_goods = tropical_wood
 life_rating = 30
 

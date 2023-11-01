@@ -1,6 +1,6 @@
-owner = PRG
-controller = PRG
-add_core = PRG
+owner = 
+controller = 
+add_core = 
 add_core = 
 trade_goods = sulphur
 life_rating = 25

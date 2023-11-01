@@ -1,5 +1,5 @@
-owner = CLM
-controller = CLM
+owner = 
+controller = 
 add_core = 
 #add_core = GCO
 trade_goods = tobacco
