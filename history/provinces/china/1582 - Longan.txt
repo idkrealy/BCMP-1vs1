@@ -3,7 +3,7 @@ controller =
 add_core = 
 #add_core = SZC
 #add_core = TPG
-add_core = TIB
+add_core = 
 trade_goods = coal
 life_rating = 32
 

@@ -1,6 +1,6 @@
-owner = 
-controller = 
-add_core = 
+owner = SWE
+controller = SWE
+add_core = SWE
 #add_core = SCA
 trade_goods = coal
 life_rating = 35
