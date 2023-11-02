@@ -1,6 +1,6 @@
-owner = HND
-controller = HND
-add_core = HND
+owner = 
+controller = 
+add_core = 
 trade_goods = grain
 life_rating = 32
 1861.1.1 = {

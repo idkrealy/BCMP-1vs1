@@ -1,7 +1,7 @@
-owner = SIK
-controller = SIK
-add_core = SIK
-add_core = HND
+owner = 
+controller = 
+add_core = 
+add_core = 
 trade_goods = wool
 life_rating = 25
 

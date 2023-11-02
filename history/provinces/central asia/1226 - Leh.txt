@@ -1,6 +1,6 @@
-owner = PNJ
-controller = PNJ
-add_core = PNJ
+owner = 
+controller = 
+add_core = 
 #add_core = LAD
 #add_core = KAS
 trade_goods = wool

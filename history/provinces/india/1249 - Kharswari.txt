@@ -1,6 +1,6 @@
 owner = 
 controller = 
-add_core = HND
+add_core = 
 trade_goods = coal
 life_rating = 28
 colonial = 1

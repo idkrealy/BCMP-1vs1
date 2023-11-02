@@ -1,6 +1,6 @@
-owner = ATJ
-controller = ATJ
-add_core = ATJ
+owner = 
+controller = 
+add_core = 
 #add_core = INO
 trade_goods = tea
 life_rating = 30
