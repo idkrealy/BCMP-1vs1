@@ -1,8 +1,6 @@
-owner = 
-controller = 
-add_core = LUX
-add_core = 
-add_core = 
+owner = FRA
+controller = FRA
+add_core = FRA
 trade_goods = iron
 life_rating = 35
 fort = 1
