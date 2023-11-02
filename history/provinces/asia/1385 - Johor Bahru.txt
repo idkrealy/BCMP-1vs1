@@ -1,6 +1,6 @@
-owner = JOH
-controller = JOH
-add_core = JOH
+owner = 
+controller = 
+add_core = 
 trade_goods = tropical_wood
 life_rating = 40
 

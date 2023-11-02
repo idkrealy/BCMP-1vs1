@@ -1,7 +1,7 @@
-owner = MCK
-controller = MCK
+owner = 
+controller = 
 add_core = 
-add_core = MCK
+add_core = 
 trade_goods = cattle
 life_rating = 35
 

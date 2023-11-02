@@ -1,7 +1,7 @@
-owner = MCK
-controller = MCK
+owner = 
+controller = 
 add_core = 
-add_core = MCK
+add_core = 
 trade_goods = grain
 life_rating = 33
 1861.1.1 = {

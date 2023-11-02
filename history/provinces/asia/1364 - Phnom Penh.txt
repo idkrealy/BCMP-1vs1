@@ -1,6 +1,6 @@
-owner = CAM
-controller = CAM
-add_core = CAM
+owner = 
+controller = 
+add_core = 
 trade_goods = tropical_wood
 life_rating = 30
 
