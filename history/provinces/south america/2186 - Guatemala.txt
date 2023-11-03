@@ -1,4 +1,4 @@
-owner = UCAcontroller = UCAadd_core = UCAadd_core = YUC
+owner = controller = add_core = add_core = YUC
 #add_core = GUA
 trade_goods = grain
 life_rating = 30

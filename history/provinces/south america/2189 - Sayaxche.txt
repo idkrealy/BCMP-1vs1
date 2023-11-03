@@ -1,6 +1,6 @@
-owner = UCA
-controller = UCA
-add_core = UCA
+owner = 
+controller = 
+add_core = 
 add_core = YUC
 #add_core = GUA
 trade_goods = timber
