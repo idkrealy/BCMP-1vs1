@@ -55,12 +55,7 @@ vassal = {
 	end_date = 1890.11.23
 }
 
-# USA-Liberia
-vassal = {
-	first = USA
-	second = LIB
-	start_date = 1822.1.1
-	end_date = 1847.7.26
+
 }
 
 # United Kingdom-Hanover

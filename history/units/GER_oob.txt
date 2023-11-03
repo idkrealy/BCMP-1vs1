@@ -1,202 +1,415 @@
+#Army
 leader = {
-	name = "Karl von dem Knesebeck"
-	picture = pru_gen_knesebeck
-	date = 1813.1.1
-	type = land
-	personality = defence_1.1
-	background = attack_1.1
-	prestige = 0.3
-}
-leader = {
-	name = "Leopold von Boyen"
-	picture = pru_gen_boyen
-	date = 1813.1.1
-	type = land
-	personality = defence_1.1
-	background = attack_1.1
-	prestige = 0.3
-}
-leader = {
-	name = "Karl von Müffling"
-	picture = pru_gen_mueffling
-	date = 1813.1.1
-	type = land
-	personality = defence_1.1
-	background = attack_1.1
-	prestige = 0.3
-}
-leader = {
-	name = "Heinrich von Pfuel"
-	picture = pru_gen_pfuel
-	date = 1813.1.1
-	type = land
-	personality = defence_1.1
-	background = attack_1.1
-	prestige = 0.3
-}
-leader = {
-	name = "Karl von Grolman"
-	picture = pru_gen_grolman
-	date = 1815.1.1
-	type = land
-	personality = defence_1.1
-	background = attack_1.1
-	prestige = 0.3
-}
-leader = {
-	name = "Otto Rühle von Lilienstern"
-	picture = pru_gen_lilienstern
-	date = 1819.1.1
-	type = land
-	personality = defence_1.1
-	background = attack_1.1
-	prestige = 0.3
-}
-leader = {
-	name = "Prinz Wilhelm"
-	picture = pru_gen_prinzwilhelm
-	date = 1820.1.1
-	type = land
-	personality = defence_1.1
-	background = attack_1.1
-	prestige = 0.2
-}
-leader = {
-	name = "Friedrich zu Dohna-Schlobitten"
-	picture = pru_gen_dohnaschlobitten
-	date = 1822.1.1
-	type = land
-	personality = defence_1.1
-	background = attack_1.1
-	prestige = 0.2
-}
-leader = {
-	name = "Friedrich von Wrangel"
-	picture = pru_gen_wrangel
-	date = 1823.1.1
-	type = land
-	personality = defence_1.1
-	background = attack_1.1
-	prestige = 0.2
-}
-leader = {
-	name = "Prinz Karl"
-	picture = pru_gen_prinzkarl
-	date = 1824.1.1
-	type = land
-	personality = defence_1.1
-	background = attack_1.1
-	prestige = 0.2
-}
-leader = {
-	name = "Wilhelm von Krauseneck"
-	picture = pru_gen_krauseneck
-	date = 1829.1.1
-	type = land
-	personality = defence_1.1
-	background = attack_1.1
-	prestige = 0.2
-}
-leader = {
-	name = "Peter von Colomb"
-	picture = pru_gen_colombpeter
-	date = 1829.1.1
-	type = land
-	personality = defence_1.1
-	background = attack_1.1
-	prestige = 0.2
-}
-leader = {
-	name = "August von Neumann-Cosel"
-	picture = pru_gen_neumanncosel
+	name = "Blucher"
 	date = 1836.1.1
 	type = land
-	personality = defence_1.1
-	background = attack_1.1
+	personality = implacable
+	background = cursed_luck
+	prestige = 0.2
 }
 leader = {
-	name = "Hans von Zieten"
-	picture = pru_gen_zieten
-	date = 1813.1.1
+	name = "Clausewitz"
+	date = 1836.1.1
 	type = land
-	personality = defence_1.1
-	background = attack_1.1
-	prestige = 0.3
-}
-leader = {
-	name = "Ludwig von Borstell"
-	picture = pru_gen_borstell
-	date = 1813.1.1
-	type = land
-	personality = defence_1.1
-	background = attack_1.1
-	prestige = 0.3
-}
-leader = {
-	name = "Gustav von Rauch"
-	picture = pru_gen_rauch
-	date = 1815.1.1
-	type = land
-	personality = defence_1.1
-	background = attack_1.1
-	prestige = 0.3
-}
-leader = {
-	name = "Prinz August"
-	picture = pru_gen_prinzaugust
-	date = 1808.1.1
-	type = land
-	personality = defence_1.1
-	background = attack_1.1
-	prestige = 0.3
+	personality = implacable
+	background = cursed_luck
+	prestige = 0.2
 }
 
-#Army
+leader = {
+	name = "General 1"
+	date = 1836.1.1
+	type = land
+	personality = no_personality
+	background = aristocrat 
+	prestige = 0.2
+}
+
+leader = {
+	name = "General 2"
+	date = 1836.1.1
+	type = land
+	personality = no_personality
+	background = aristocrat 
+	prestige = 0.2
+}
+
+leader = {
+	name = "General 3"
+	date = 1836.1.1
+	type = land
+	personality = no_personality
+	background = aristocrat 
+	prestige = 0.2
+}
+
+leader = {
+	name = "General 4"
+	date = 1836.1.1
+	type = land
+	personality = no_personality
+	background = aristocrat 
+	prestige = 0.2
+}
+
+leader = {
+	name = "General 5"
+	date = 1836.1.1
+	type = land
+	personality = no_personality
+	background = aristocrat 
+	prestige = 0.2
+}
+
+leader = {
+	name = "General 6"
+	date = 1836.1.1
+	type = land
+	personality = no_personality
+	background = aristocrat 
+	prestige = 0.2
+}
+
+leader = {
+	name = "General 7"
+	date = 1836.1.1
+	type = land
+	personality = no_personality
+	background = aristocrat 
+	prestige = 0.2
+}
+
+leader = {
+	name = "General 8"
+	date = 1836.1.1
+	type = land
+	personality = no_personality
+	background = aristocrat 
+	prestige = 0.2
+}
+
+leader = {
+	name = "General 9"
+	date = 1836.1.1
+	type = land
+	personality = no_personality
+	background = aristocrat 
+	prestige = 0.2
+}
+
+leader = {
+	name = "General 10"
+	date = 1836.1.1
+	type = land
+	personality = no_personality
+	background = aristocrat 
+	prestige = 0.2
+}
+
+leader = {
+	name = "General 11"
+	date = 1836.1.1
+	type = land
+	personality = no_personality
+	background = aristocrat 
+	prestige = 0.2
+}
+
+leader = {
+	name = "General 12"
+	date = 1836.1.1
+	type = land
+	personality = no_personality
+	background = aristocrat 
+	prestige = 0.2
+}
+
+leader = {
+	name = "General 13"
+	date = 1836.1.1
+	type = land
+	personality = no_personality
+	background = aristocrat 
+	prestige = 0.2
+}
+
+leader = {
+	name = "General 14"
+	date = 1836.1.1
+	type = land
+	personality = no_personality
+	background = aristocrat 
+	prestige = 0.2
+}
+
+leader = {
+	name = "General 15"
+	date = 1836.1.1
+	type = land
+	personality = no_personality
+	background = aristocrat 
+	prestige = 0.2
+}
+
+leader = {
+	name = "General 16"
+	date = 1836.1.1
+	type = land
+	personality = no_personality
+	background = aristocrat 
+	prestige = 0.2
+}
+
+leader = {
+	name = "General 17"
+	date = 1836.1.1
+	type = land
+	personality = no_personality
+	background = aristocrat 
+	prestige = 0.2
+}
+
+leader = {
+	name = "General 18"
+	date = 1836.1.1
+	type = land
+	personality = no_personality
+	background = aristocrat 
+	prestige = 0.2
+}
+
+leader = {
+	name = "General 19"
+	date = 1836.1.1
+	type = land
+	personality = no_personality
+	background = aristocrat 
+	prestige = 0.2
+}
+
+leader = {
+	name = "General 20"
+	date = 1836.1.1
+	type = land
+	personality = no_personality
+	background = aristocrat 
+	prestige = 0.2
+}
+
+leader = {
+	name = "General 21"
+	date = 1836.1.1
+	type = land
+	personality = no_personality
+	background = aristocrat 
+	prestige = 0.2
+}
+
+leader = {
+	name = "General 22"
+	date = 1836.1.1
+	type = land
+	personality = no_personality
+	background = aristocrat 
+	prestige = 0.2
+}
+
+leader = {
+	name = "General 23"
+	date = 1836.1.1
+	type = land
+	personality = no_personality
+	background = aristocrat 
+	prestige = 0.2
+}
+
+leader = {
+	name = "General 24"
+	date = 1836.1.1
+	type = land
+	personality = no_personality
+	background = aristocrat 
+	prestige = 0.2
+}
+
+leader = {
+	name = "General 25"
+	date = 1836.1.1
+	type = land
+	personality = no_personality
+	background = aristocrat 
+	prestige = 0.2
+}
+
+leader = {
+	name = "General 26"
+	date = 1836.1.1
+	type = land
+	personality = no_personality
+	background = aristocrat 
+	prestige = 0.2
+}
+
+leader = {
+	name = "General 27"
+	date = 1836.1.1
+	type = land
+	personality = no_personality
+	background = aristocrat 
+	prestige = 0.2
+}
+
+leader = {
+	name = "General 28"
+	date = 1836.1.1
+	type = land
+	personality = no_personality
+	background = aristocrat 
+	prestige = 0.2
+}
+
+leader = {
+	name = "General 29"
+	date = 1836.1.1
+	type = land
+	personality = no_personality
+	background = aristocrat 
+	prestige = 0.2
+}
+
+leader = {
+	name = "General 30"
+	date = 1836.1.1
+	type = land
+	personality = no_personality
+	background = aristocrat 
+	prestige = 0.2
+}
+
+leader = {
+	name = "General 31"
+	date = 1836.1.1
+	type = land
+	personality = no_personality
+	background = aristocrat 
+	prestige = 0.2
+}
+
+leader = {
+	name = "General 32"
+	date = 1836.1.1
+	type = land
+	personality = no_personality
+	background = aristocrat 
+	prestige = 0.2
+}
+
+leader = {
+	name = "General 33"
+	date = 1836.1.1
+	type = land
+	personality = no_personality
+	background = aristocrat 
+	prestige = 0.2
+}
+
+leader = {
+	name = "General 34"
+	date = 1836.1.1
+	type = land
+	personality = no_personality
+	background = aristocrat 
+	prestige = 0.2
+}
+
+leader = {
+	name = "General 35"
+	date = 1836.1.1
+	type = land
+	personality = no_personality
+	background = aristocrat 
+	prestige = 0.2
+}
+
+leader = {
+	name = "General 36"
+	date = 1836.1.1
+	type = land
+	personality = no_personality
+	background = aristocrat 
+	prestige = 0.2
+}
+
+leader = {
+	name = "General 37"
+	date = 1836.1.1
+	type = land
+	personality = no_personality
+	background = aristocrat 
+	prestige = 0.2
+}
+
+leader = {
+	name = "General 38"
+	date = 1836.1.1
+	type = land
+	personality = no_personality
+	background = aristocrat 
+	prestige = 0.2
+}
+
+leader = {
+	name = "General 39"
+	date = 1836.1.1
+	type = land
+	personality = no_personality
+	background = aristocrat 
+	prestige = 0.2
+}
+
+leader = {
+	name = "General 40"
+	date = 1836.1.1
+	type = land
+	personality = no_personality
+	background = aristocrat 
+	prestige = 0.2
+}
+
+
+
 
 army = {
 	name = "I. Korps"
-	location = 553
-
+	location = 587
 	regiment = {
-		name= "XIII. Linieninfanteriebrigade"
+		name= "I. Linieninfanteriebrigade"
 		type = hussar
-		home = 696
-	}
-
-	regiment = {
-		name= "XX. Linieninfanteriebrigade"
-		type = artillery
-		home = 546
-	}
-
-	regiment = {
-		name= "XXV. Linieninfanteriebrigade"
-		type = infantry
-		home = 580
-	}
-	
-	regiment = {
-		name= "XXV. Linieninfanteriebrigade2"
-		type = infantry
-		home = 575
-	}
-
-	regiment = {
-		name= "XXVI. Linieninfanteriebrigade"
-		type = infantry
-		home = 581
+		home = 553
 	}
 
 	regiment = {
 		name= "II. Linieninfanteriebrigade"
-		type = infantry
+		type = guard
 		home = 557
 	}
 
 	regiment = {
+		name= "III. Linieninfanteriebrigade"
+		type = guard
+		home = 554
+	}
+
+	regiment = {
 		name= "I. Pionierbrigade"
-		type = infantry
+		type = guard
 		home = 577
+	}
+
+	regiment = {
+		name= "IV. Linieninfanteriebrigade"
+		type = guard
+		home = 2561
 	}
 
 	regiment = {
@@ -208,7 +421,13 @@ army = {
 	regiment = {
 		name= "VI. Linieninfanteriebrigade"
 		type = artillery
-		home = 582
+		home = 369
+	}
+
+	regiment = {
+		name= "I. Artilleriebrigade"
+		type = artillery
+		home = 584
 	}
 
 	regiment = {
@@ -226,7 +445,7 @@ army = {
 
 army = {
 	name = "II. Korps"
-	location = 682
+	location = 586
 	regiment = {
 		name= "VII. Linieninfanteriebrigade"
 		type = hussar
@@ -234,57 +453,104 @@ army = {
 	}
 	
 	regiment = {
-		name= "XXIX. Linieninfanteriebrigade"
+		name= "XXIV. Linieninfanteriebrigade"
 		type = infantry
-		home = 578
+		home = 580
 	}
 	
 	regiment = {
-		name= "XXIX. Linieninfanteriebrigade2"
+		name= "XXIX. Linieninfanteriebrigade"
 		type = infantry
-		home = 575
+		home = 578
 	}
 
 	regiment = {
 		name= "VIII. Linieninfanteriebrigade"
 		type = infantry
-		home = 553
+		home = 682
 	}
 
 	regiment = {
 		name= "IX. Linieninfanteriebrigade"
 		type = infantry
-		home = 549
+		home = 375
 	}
 
 	regiment = {
 		name= "II. Pionierbrigade"
 		type = artillery
-		home = 684
+		home = 379
+	}
+
+	regiment = {
+		name= "X. Linieninfanteriebrigade"
+		type = artillery
+		home = 378
+	}
+
+	regiment = {
+		name= "XI. Linieninfanteriebrigade"
+		type = artillery
+		home = 377
 	}
 
 	regiment = {
 		name= "XII. Linieninfanteriebrigade"
 		type = artillery
-		home = 685
+		home = 376
 	}
 
 	regiment = {
 		name= "II. Artilleriebrigade"
 		type = artillery
-		home = 685
+		home = 369
+	}
+
+}
+
+army = {
+	name = "III. Korps"
+	location = 571
+	regiment = {
+		name= "XIII. Linieninfanteriebrigade"
+		type = hussar
+		home = 696
 	}
 	
 	regiment = {
-		name= "XVIII. Linieninfanteriebrigade"
-		type = artillery
-		home = 698
+		name= "XXV. Linieninfanteriebrigade"
+		type = infantry
+		home = 380
+	}
+
+	regiment = {
+		name= "XXVI. Linieninfanteriebrigade"
+		type = infantry
+		home = 381
+	}
+
+	regiment = {
+		name= "XIV. Linieninfanteriebrigade"
+		type = infantry
+		home = 382
+	}
+
+	regiment = {
+		name= "XV. Linieninfanteriebrigade"
+		type = infantry
+		home = 693
 	}
 
 	regiment = {
 		name= "III. Pionierbrigade"
 		type = artillery
-		home = 549
+		home = 383
+	}
+
+	regiment = {
+		name= "XVI. Linieninfanteriebrigade"
+		type = artillery
+		home = 695
 	}
 
 	regiment = {
@@ -293,18 +559,88 @@ army = {
 		home = 695
 	}
 
+	regiment = {
+		name= "XVIII. Linieninfanteriebrigade"
+		type = artillery
+		home = 698
+	}
+
+	regiment = {
+		name= "III. Artilleriebrigade"
+		type = artillery
+		home = 383
+	}
+
 }
 
 army = {
-	name = "III. Korps"
-	location = 546
+	name = "IV. Korps"
+	location = 573
+	regiment = {
+		name= "XIX. Linieninfanteriebrigade"
+		type = hussar
+		home = 547
+	}
+
+	regiment = {
+		name= "XX. Linieninfanteriebrigade"
+		type = infantry
+		home = 546
+	}
+
+	regiment = {
+		name= "XXI. Linieninfanteriebrigade"
+		type = infantry
+		home = 679
+	}
+
+	regiment = {
+		name= "IV. Pionierbrigade"
+		type = infantry
+		home = 680
+	}
+
+	regiment = {
+		name= "XXII. Linieninfanteriebrigade"
+		type = infantry
+		home = 548
+	}
+
+	regiment = {
+		name= "XXIII. Linieninfanteriebrigade"
+		type = artillery
+		home = 384
+	}
+
+	regiment = {
+		name= "IV. Artilleriebrigade"
+		type = artillery
+		home = 385
+	}
+	
+		regiment = {
+		name = "XXX. Linieninfanteriebrigade"
+		type = artillery
+		home = 594
+	}
 	
 	regiment = {
 		name= "XI. Kavalleriebrigade"
 		type = artillery
 		home = 701
 	}
-	
+
+	regiment = {
+		name = "V. Artilleriebrigade"
+		type = artillery
+		home = 528
+	}
+
+}
+
+army = {
+	name = "V. Korps"
+	location = 572
 	regiment = {
 		name= "I. Kavalleriebrigade"
 		type = hussar
@@ -320,7 +656,7 @@ army = {
 	regiment = {
 		name= "III. Kavalleriebrigade"
 		type = infantry
-		home = 682
+		home = 687
 	}
 
 	regiment = {
@@ -348,34 +684,699 @@ army = {
 	}
 
 	regiment = {
+		name= "VIII. Kavalleriebrigade"
+		type = artillery
+		home = 386
+	}
+
+	regiment = {
+		name= "IX. Kavalleriebrigade"
+		type = artillery
+		home = 700
+	}
+
+	regiment = {
 		name= "X. Kavalleriebrigade"
+		type = artillery
+		home = 692
+	}
+}
+
+army = {
+	name = "VI. Korps"
+	location = 576
+	regiment = {
+		name= "I. Kavalleriebrigade"
+		type = hussar
+		home = 529
+	}
+
+	regiment = {
+		name= "II. Kavalleriebrigade"
+		type = infantry
+		home = 530
+	}
+
+	regiment = {
+		name= "III. Kavalleriebrigade"
+		type = infantry
+		home = 531
+	}
+
+	regiment = {
+		name= "IV. Kavalleriebrigade"
+		type = infantry
+		home = 529
+	}
+
+	regiment = {
+		name= "V. Kavalleriebrigade"
+		type = infantry
+		home = 534
+	}
+
+	regiment = {
+		name= "VI. Kavalleriebrigade"
+		type = artillery
+		home = 534
+	}
+
+	regiment = {
+		name= "VII. Kavalleriebrigade"
+		type = artillery
+		home = 535
+	}
+
+	regiment = {
+		name= "VIII. Kavalleriebrigade"
+		type = artillery
+		home = 536
+	}
+
+	regiment = {
+		name= "IX. Kavalleriebrigade"
+		type = artillery
+		home = 537
+	}
+
+	regiment = {
+		name= "X. Kavalleriebrigade"
+		type = artillery
+		home = 539
+	}
+}
+
+army = {
+	name = "VII. Korps"
+	location = 381
+	regiment = {
+		name= "I. Kavalleriebrigade"
+		type = hussar
+		home = 559
+	}
+
+	regiment = {
+		name= "II. Kavalleriebrigade"
+		type = infantry
+		home = 540
+	}
+
+	regiment = {
+		name= "III. Kavalleriebrigade"
+		type = infantry
+		home = 544
+	}
+
+	regiment = {
+		name= "IV. Kavalleriebrigade"
+		type = infantry
+		home = 545
+	}
+
+	regiment = {
+		name= "V. Kavalleriebrigade"
+		type = infantry
+		home = 532
+	}
+
+	regiment = {
+		name= "VI. Kavalleriebrigade"
+		type = artillery
+		home = 546
+	}
+
+	regiment = {
+		name= "VII. Kavalleriebrigade"
 		type = artillery
 		home = 549
 	}
+
+	regiment = {
+		name= "VIII. Kavalleriebrigade"
+		type = artillery
+		home = 555
+	}
+
+	regiment = {
+		name= "IX. Kavalleriebrigade"
+		type = artillery
+		home = 556
+	}
+
+	regiment = {
+		name= "X. Kavalleriebrigade"
+		type = artillery
+		home = 558
+	}
+}
+
+army = {
+	name = "VIII. Korps"
+	location = 379
+	regiment = {
+		name= "I. Kavalleriebrigade"
+		type = hussar
+		home = 560
+	}
+
+	regiment = {
+		name= "II. Kavalleriebrigade"
+		type = infantry
+		home = 561
+	}
+
+	regiment = {
+		name= "III. Kavalleriebrigade"
+		type = infantry
+		home = 562
+	}
+
+	regiment = {
+		name= "IV. Kavalleriebrigade"
+		type = infantry
+		home = 563
+	}
+
+	regiment = {
+		name= "V. Kavalleriebrigade"
+		type = infantry
+		home = 564
+	}
+
+	regiment = {
+		name= "VI. Kavalleriebrigade"
+		type = artillery
+		home = 565
+	}
+
+	regiment = {
+		name= "VII. Kavalleriebrigade"
+		type = artillery
+		home = 566
+	}
+
+	regiment = {
+		name= "VIII. Kavalleriebrigade"
+		type = artillery
+		home = 566
+	}
+
+	regiment = {
+		name= "IX. Kavalleriebrigade"
+		type = artillery
+		home = 567
+	}
+
+	regiment = {
+		name= "X. Kavalleriebrigade"
+		type = artillery
+		home = 568
+	}
+}
+
+army = {
+	name = "IX. Korps"
+	location = 378
+	regiment = {
+		name= "I. Kavalleriebrigade"
+		type = hussar
+		home = 595
+	}
+
+	regiment = {
+		name= "II. Kavalleriebrigade"
+		type = infantry
+		home = 597
+	}
+
+	regiment = {
+		name= "III. Kavalleriebrigade"
+		type = infantry
+		home = 587
+	}
+
+	regiment = {
+		name= "IV. Kavalleriebrigade"
+		type = infantry
+		home = 593
+	}
+
+	regiment = {
+		name= "V. Kavalleriebrigade"
+		type = infantry
+		home = 589
+	}
+
+	regiment = {
+		name= "VI. Kavalleriebrigade"
+		type = artillery
+		home = 589
+	}
+
+	regiment = {
+		name= "VII. Kavalleriebrigade"
+		type = artillery
+		home = 602
+	}
+
+	regiment = {
+		name= "VIII. Kavalleriebrigade"
+		type = artillery
+		home = 585
+	}
+
+	regiment = {
+		name= "IX. Kavalleriebrigade"
+		type = artillery
+		home = 601
+	}
+
+	regiment = {
+		name= "X. Kavalleriebrigade"
+		type = artillery
+		home = 599
+	}
+}
+
+army = {
+	name = "X. Korps"
+	location = 380
+	regiment = {
+		name= "I. Kavalleriebrigade"
+		type = hussar
+		home = 2560
+	}
+
+	regiment = {
+		name= "II. Kavalleriebrigade"
+		type = infantry
+		home = 575
+	}
+
+	regiment = {
+		name= "III. Kavalleriebrigade"
+		type = infantry
+		home = 592
+	}
+
+	regiment = {
+		name= "IV. Kavalleriebrigade"
+		type = infantry
+		home = 593
+	}
+
+	regiment = {
+		name= "V. Kavalleriebrigade"
+		type = infantry
+		home = 599
+	}
+
+	regiment = {
+		name= "VI. Kavalleriebrigade"
+		type = artillery
+		home = 570
+	}
+
+	regiment = {
+		name= "VII. Kavalleriebrigade"
+		type = artillery
+		home = 684
+	}
+
+	regiment = {
+		name= "VIII. Kavalleriebrigade"
+		type = artillery
+		home = 586
+	}
+
+	regiment = {
+		name= "IX. Kavalleriebrigade"
+		type = artillery
+		home = 683
+	}
+
+	regiment = {
+		name= "X. Kavalleriebrigade"
+		type = artillery
+		home = 589
+	}
+}
+
+army = {
+	name = "I Offensive Artillery Korps"
+	location = 566
+	regiment = {
+		name= "VII. Linieninfanteriebrigade"
+		type = cuirassier
+		home = 695
+	}
 	
 	regiment = {
-		name= "XVI. Linieninfanteriebrigade"
-		type = artillery
-		home = 682
+		name= "II. Pionierbrigade"
+		type = artillery_offensive 
+		home = 566
+	}
+
+	regiment = {
+		name= "X. Linieninfanteriebrigade"
+		type = artillery_offensive 
+		home = 582
+	}
+
+	regiment = {
+		name= "XI. Linieninfanteriebrigade"
+		type = artillery_offensive 
+		home = 534
+	}
+
+	regiment = {
+		name= "XII. Linieninfanteriebrigade"
+		type = artillery_offensive 
+		home = 536
+	}
+
+	regiment = {
+		name= "II. Artilleriebrigade"
+		type = artillery_offensive 
+		home = 557
+	}
+
+}
+
+army = {
+	name = "II Offensive Artillery Korps"
+	location = 584
+	regiment = {
+		name= "VII. Linieninfanteriebrigade"
+		type = cuirassier 
+		home = 553
+	}
+	
+	regiment = {
+		name= "II. Pionierbrigade"
+		type = artillery_offensive 
+		home = 549
+	}
+
+	regiment = {
+		name= "X. Linieninfanteriebrigade"
+		type = artillery_offensive 
+		home = 551
+	}
+
+	regiment = {
+		name= "XI. Linieninfanteriebrigade"
+		type = artillery_offensive 
+		home = 550
+	}
+
+	regiment = {
+		name= "XII. Linieninfanteriebrigade"
+		type = artillery_offensive 
+		home = 552
+	}
+
+	regiment = {
+		name= "II. Artilleriebrigade"
+		type = artillery_offensive 
+		home = 565
+	}
+
+}
+
+
+army = {
+	name = "III Offensive Artillery Korps"
+	location = 567
+	regiment = {
+		name= "VII. Linieninfanteriebrigade"
+		type = cuirassier
+		home = 581
+	}
+	
+	regiment = {
+		name= "II. Pionierbrigade"
+		type = artillery_offensive 
+		home = 578
+	}
+
+	regiment = {
+		name= "X. Linieninfanteriebrigade"
+		type = artillery_offensive 
+		home = 575
+	}
+
+	regiment = {
+		name= "XI. Linieninfanteriebrigade"
+		type = artillery_offensive 
+		home = 548
+	}
+
+	regiment = {
+		name= "XII. Linieninfanteriebrigade"
+		type = artillery_offensive 
+		home = 558
+	}
+
+	regiment = {
+		name= "II. Artilleriebrigade"
+		type = artillery_offensive 
+		home = 554
+	}
+
+}
+
+army = {
+	name = "IV Offensive Artillery Korps"
+	location = 568
+	regiment = {
+		name= "VII. Linieninfanteriebrigade"
+		type = cuirassier 
+		home = 556
+	}
+	
+	regiment = {
+		name= "II. Pionierbrigade"
+		type = artillery_offensive 
+		home = 585
+	}
+
+	regiment = {
+		name= "X. Linieninfanteriebrigade"
+		type = artillery_offensive 
+		home = 369
+	}
+
+	regiment = {
+		name= "XI. Linieninfanteriebrigade"
+		type = artillery_offensive 
+		home = 595
+	}
+
+	regiment = {
+		name= "XII. Linieninfanteriebrigade"
+		type = artillery_offensive 
+		home = 562
+	}
+
+	regiment = {
+		name= "II. Artilleriebrigade"
+		type = artillery_offensive 
+		home = 547
+	}
+
+}
+
+army = {
+	name = "V Defensive Artillery Korps"
+	location = 562
+	regiment = {
+		name= "VII. Linieninfanteriebrigade"
+		type = dragoon 
+		home = 577
+	}
+	
+	regiment = {
+		name= "II. Pionierbrigade"
+		type = artillery_defensive 
+		home = 549
+	}
+
+	regiment = {
+		name= "X. Linieninfanteriebrigade"
+		type = artillery_defensive 
+		home = 576
+	}
+
+	regiment = {
+		name= "XI. Linieninfanteriebrigade"
+		type = artillery_defensive 
+		home = 687
+	}
+
+	regiment = {
+		name= "XII. Linieninfanteriebrigade"
+		type = artillery_defensive 
+		home = 593
+	}
+
+	regiment = {
+		name= "II. Artilleriebrigade"
+		type = artillery_defensive 
+		home = 570
+	}
+
+}
+
+
+army = {
+	name = "VI Defensive Artillery Korps"
+	location = 554
+	regiment = {
+		name= "VII. Linieninfanteriebrigade"
+		type = dragoon 
+		home = 571
+	}
+	
+	regiment = {
+		name= "II. Pionierbrigade"
+		type = artillery_defensive 
+		home = 600
+	}
+
+	regiment = {
+		name= "X. Linieninfanteriebrigade"
+		type = artillery_defensive 
+		home = 383
+	}
+
+	regiment = {
+		name= "XI. Linieninfanteriebrigade"
+		type = artillery_defensive 
+		home = 567
+	}
+
+	regiment = {
+		name= "XII. Linieninfanteriebrigade"
+		type = artillery_defensive 
+		home = 2560
+	}
+
+	regiment = {
+		name= "II. Artilleriebrigade"
+		type = artillery_defensive 
+		home = 566
+	}
+
+}
+
+army = {
+	name = "VII Defensive Artillery Korps"
+	location = 537
+	regiment = {
+		name= "VII. Linieninfanteriebrigade"
+		type = dragoon 
+		home = 568
+	}
+	
+	regiment = {
+		name= "II. Pionierbrigade"
+		type = artillery_defensive 
+		home = 383
+	}
+
+	regiment = {
+		name= "X. Linieninfanteriebrigade"
+		type = artillery_defensive 
+		home = 563
+	}
+
+	regiment = {
+		name= "XI. Linieninfanteriebrigade"
+		type = artillery_defensive 
+		home = 598
+	}
+
+	regiment = {
+		name= "XII. Linieninfanteriebrigade"
+		type = artillery_defensive 
+		home = 590
+	}
+
+	regiment = {
+		name= "II. Artilleriebrigade"
+		type = artillery_defensive 
+		home = 369
+	}
+
+}
+
+army = {
+	name = "VIII Defensive Artillery Korps"
+	location = 582
+	regiment = {
+		name= "VII. Linieninfanteriebrigade"
+		type = dragoon 
+		home = 593
+	}
+	
+	regiment = {
+		name= "II. Pionierbrigade"
+		type = artillery_defensive 
+		home = 540
+	}
+
+	regiment = {
+		name= "X. Linieninfanteriebrigade"
+		type = artillery_defensive 
+		home = 586
+	}
+
+	regiment = {
+		name= "XI. Linieninfanteriebrigade"
+		type = artillery_defensive 
+		home = 599
+	}
+
+	regiment = {
+		name= "XII. Linieninfanteriebrigade"
+		type = artillery_defensive 
+		home = 594
+	}
+
+	regiment = {
+		name= "II. Artilleriebrigade"
+		type = artillery_defensive 
+		home = 555
+	}
+
+}
+
+army = {
+	name = "I Hussars Korps"
+	location = 539
+	regiment = {
+		name= "VII. Linieninfanteriebrigade"
+		type = hussar
+		home = 697
+	}
+	
+	regiment = {
+		name= "VII. Linieninfanteriebrigade"
+		type = hussar
+		home = 369
 	}
 }
 
-navy = {
-	name = "Königlich Preußische Marine"
-	location = 690
-	ship = {
-		name= "1. Klipperflottille"
-		type = clipper_transport
-	}
 
-	ship = {
-		name= "2. Klipperflottille"
-		type = clipper_transport
-	}
 
-	ship = {
-		name= "3. Klipperflottille"
-		type = clipper_transport
-	}
 
-}
+
+
+
+
+
+
+
+
+
