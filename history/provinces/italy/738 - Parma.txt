@@ -1,6 +1,6 @@
-owner = PAR
-controller = PAR
-add_core = PAR
+owner = 
+controller = 
+add_core = 
 #add_core = ITA
 
 trade_goods = grain

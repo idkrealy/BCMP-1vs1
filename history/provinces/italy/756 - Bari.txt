@@ -1,6 +1,6 @@
-owner = SIC
-controller = SIC
-add_core = SIC
+owner = 
+controller = 
+add_core = 
 #add_core = ITA
 
 trade_goods = grain

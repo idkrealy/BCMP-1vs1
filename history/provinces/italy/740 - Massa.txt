@@ -1,6 +1,6 @@
-owner = MOD
-controller = MOD
-add_core = MOD
+owner = 
+controller = 
+add_core = 
 #add_core = ITA
 
 trade_goods = coal
