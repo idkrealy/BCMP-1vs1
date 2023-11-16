@@ -1033,31 +1033,31 @@ army = {
 	
 	regiment = {
 		name= "II. Pionierbrigade"
-		type = artillery_offensive 
+		type = artillery
 		home = 566
 	}
 
 	regiment = {
 		name= "X. Linieninfanteriebrigade"
-		type = artillery_offensive 
+		type = artillery
 		home = 582
 	}
 
 	regiment = {
 		name= "XI. Linieninfanteriebrigade"
-		type = artillery_offensive 
+		type = artillery
 		home = 534
 	}
 
 	regiment = {
 		name= "XII. Linieninfanteriebrigade"
-		type = artillery_offensive 
+		type = artillery
 		home = 536
 	}
 
 	regiment = {
 		name= "II. Artilleriebrigade"
-		type = artillery_offensive 
+		type = artillery
 		home = 557
 	}
 
@@ -1074,31 +1074,31 @@ army = {
 	
 	regiment = {
 		name= "II. Pionierbrigade"
-		type = artillery_offensive 
+		type = artillery
 		home = 549
 	}
 
 	regiment = {
 		name= "X. Linieninfanteriebrigade"
-		type = artillery_offensive 
+		type = artillery
 		home = 551
 	}
 
 	regiment = {
 		name= "XI. Linieninfanteriebrigade"
-		type = artillery_offensive 
+		type = artillery
 		home = 550
 	}
 
 	regiment = {
 		name= "XII. Linieninfanteriebrigade"
-		type = artillery_offensive 
+		type = artillery
 		home = 552
 	}
 
 	regiment = {
 		name= "II. Artilleriebrigade"
-		type = artillery_offensive 
+		type = artillery
 		home = 565
 	}
 
@@ -1116,31 +1116,31 @@ army = {
 	
 	regiment = {
 		name= "II. Pionierbrigade"
-		type = artillery_offensive 
+		type = artillery
 		home = 578
 	}
 
 	regiment = {
 		name= "X. Linieninfanteriebrigade"
-		type = artillery_offensive 
+		type = artillery
 		home = 575
 	}
 
 	regiment = {
 		name= "XI. Linieninfanteriebrigade"
-		type = artillery_offensive 
+		type = artillery
 		home = 548
 	}
 
 	regiment = {
 		name= "XII. Linieninfanteriebrigade"
-		type = artillery_offensive 
+		type = artillery
 		home = 558
 	}
 
 	regiment = {
 		name= "II. Artilleriebrigade"
-		type = artillery_offensive 
+		type = artillery
 		home = 554
 	}
 
@@ -1157,31 +1157,31 @@ army = {
 	
 	regiment = {
 		name= "II. Pionierbrigade"
-		type = artillery_offensive 
+		type = artillery
 		home = 585
 	}
 
 	regiment = {
 		name= "X. Linieninfanteriebrigade"
-		type = artillery_offensive 
+		type = artillery
 		home = 369
 	}
 
 	regiment = {
 		name= "XI. Linieninfanteriebrigade"
-		type = artillery_offensive 
+		type = artillery
 		home = 595
 	}
 
 	regiment = {
 		name= "XII. Linieninfanteriebrigade"
-		type = artillery_offensive 
+		type = artillery
 		home = 562
 	}
 
 	regiment = {
 		name= "II. Artilleriebrigade"
-		type = artillery_offensive 
+		type = artillery
 		home = 547
 	}
 
@@ -1192,37 +1192,37 @@ army = {
 	location = 562
 	regiment = {
 		name= "VII. Linieninfanteriebrigade"
-		type = dragoon 
+		type = hussar
 		home = 577
 	}
 	
 	regiment = {
 		name= "II. Pionierbrigade"
-		type = artillery_defensive 
+		type = artillery
 		home = 549
 	}
 
 	regiment = {
 		name= "X. Linieninfanteriebrigade"
-		type = artillery_defensive 
+		type = artillery
 		home = 576
 	}
 
 	regiment = {
 		name= "XI. Linieninfanteriebrigade"
-		type = artillery_defensive 
+		type = artillery
 		home = 687
 	}
 
 	regiment = {
 		name= "XII. Linieninfanteriebrigade"
-		type = artillery_defensive 
+		type = artillery
 		home = 593
 	}
 
 	regiment = {
 		name= "II. Artilleriebrigade"
-		type = artillery_defensive 
+		type = artillery
 		home = 570
 	}
 
@@ -1234,37 +1234,37 @@ army = {
 	location = 554
 	regiment = {
 		name= "VII. Linieninfanteriebrigade"
-		type = dragoon 
+		type = hussar
 		home = 571
 	}
 	
 	regiment = {
 		name= "II. Pionierbrigade"
-		type = artillery_defensive 
+		type = artillery
 		home = 600
 	}
 
 	regiment = {
 		name= "X. Linieninfanteriebrigade"
-		type = artillery_defensive 
+		type = artillery
 		home = 383
 	}
 
 	regiment = {
 		name= "XI. Linieninfanteriebrigade"
-		type = artillery_defensive 
+		type = artillery
 		home = 567
 	}
 
 	regiment = {
 		name= "XII. Linieninfanteriebrigade"
-		type = artillery_defensive 
+		type = artillery
 		home = 2560
 	}
 
 	regiment = {
 		name= "II. Artilleriebrigade"
-		type = artillery_defensive 
+		type = artillery
 		home = 566
 	}
 
@@ -1275,37 +1275,37 @@ army = {
 	location = 537
 	regiment = {
 		name= "VII. Linieninfanteriebrigade"
-		type = dragoon 
+		type = hussar
 		home = 568
 	}
 	
 	regiment = {
 		name= "II. Pionierbrigade"
-		type = artillery_defensive 
+		type = artillery 
 		home = 383
 	}
 
 	regiment = {
 		name= "X. Linieninfanteriebrigade"
-		type = artillery_defensive 
+		type = artillery
 		home = 563
 	}
 
 	regiment = {
 		name= "XI. Linieninfanteriebrigade"
-		type = artillery_defensive 
+		type = artillery
 		home = 598
 	}
 
 	regiment = {
 		name= "XII. Linieninfanteriebrigade"
-		type = artillery_defensive 
+		type = artillery
 		home = 590
 	}
 
 	regiment = {
 		name= "II. Artilleriebrigade"
-		type = artillery_defensive 
+		type = artillery
 		home = 369
 	}
 
@@ -1316,37 +1316,37 @@ army = {
 	location = 582
 	regiment = {
 		name= "VII. Linieninfanteriebrigade"
-		type = dragoon 
+		type = hussar
 		home = 593
 	}
 	
 	regiment = {
 		name= "II. Pionierbrigade"
-		type = artillery_defensive 
+		type = artillery
 		home = 540
 	}
 
 	regiment = {
 		name= "X. Linieninfanteriebrigade"
-		type = artillery_defensive 
+		type = artillery
 		home = 586
 	}
 
 	regiment = {
 		name= "XI. Linieninfanteriebrigade"
-		type = artillery_defensive 
+		type = artillery
 		home = 599
 	}
 
 	regiment = {
 		name= "XII. Linieninfanteriebrigade"
-		type = artillery_defensive 
+		type = artillery
 		home = 594
 	}
 
 	regiment = {
 		name= "II. Artilleriebrigade"
-		type = artillery_defensive 
+		type = artillery 
 		home = 555
 	}
 
