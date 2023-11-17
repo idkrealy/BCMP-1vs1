@@ -441,6 +441,18 @@ army = {
 		type = artillery
 		home = 576
 	}
+	
+	regiment = {
+		name= "XXXX. Linieninfanteriebrigade"
+		type = guard
+		home = 567
+	}
+	
+	regiment = {
+		name= "XXXXX. Linieninfanteriebrigade"
+		type = artillery
+		home = 576
+	}
 }
 
 army = {
@@ -905,25 +917,25 @@ army = {
 
 	regiment = {
 		name= "II. Kavalleriebrigade"
-		type = infantry
+		type = guard
 		home = 597
 	}
 
 	regiment = {
 		name= "III. Kavalleriebrigade"
-		type = infantry
+		type = guard
 		home = 587
 	}
 
 	regiment = {
 		name= "IV. Kavalleriebrigade"
-		type = infantry
+		type = guard
 		home = 593
 	}
 
 	regiment = {
 		name= "V. Kavalleriebrigade"
-		type = infantry
+		type = guard
 		home = 589
 	}
 
@@ -1351,23 +1363,6 @@ army = {
 	}
 
 }
-
-army = {
-	name = "I Hussars Korps"
-	location = 539
-	regiment = {
-		name= "VII. Linieninfanteriebrigade"
-		type = hussar
-		home = 697
-	}
-	
-	regiment = {
-		name= "VII. Linieninfanteriebrigade"
-		type = hussar
-		home = 369
-	}
-}
-
 
 
 

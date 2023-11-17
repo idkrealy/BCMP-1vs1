@@ -711,25 +711,25 @@ army = {
 
 	regiment = {
 		name= "2.8ème Division d'Infanterie"
-		type = infantry
+		type = guard
 		home = 388
 	}
 
 	regiment = {
 		name= "3.8ème Division d'Infanterie"
-		type = infantry
+		type = guard
 		home = 387
 	}
 
 	regiment = {
 		name= "1.9ème Division d'Infanterie"
-		type = infantry
+		type = guard
 		home = 389
 	}
 
 	regiment = {
 		name= "2.9ème Division d'Infanterie"
-		type = infantry
+		type = guard
 		home = 388
 	}
 
@@ -834,61 +834,61 @@ army = {
 	name = "3rd Random Army"
 	location = 390
 	regiment = {
-		name= "1.1"
+		name= "2.13ème Division d'Infanterie"
 		type = hussar
 		home = 448
 	}
 
 	regiment = {
-		name= "1.2"
+		name= "2.15ème Division d'Infanterie"
 		type = infantry
 		home = 448
 	}
 
 	regiment = {
-		name= "1.3"
+		name= "2.41ème Division d'Infanterie"
 		type = infantry
 		home = 449
 	}
 
 	regiment = {
-		name= "1.4"
+		name= "2.16ème Division d'Infanterie"
 		type = infantry
 		home = 450
 	}
 
 	regiment = {
-		name= "1.5"
+		name= "2.17ème Division d'Infanterie"
 		type = infantry
 		home = 451
 	}
 
 	regiment = {
-		name= "1.6"
+		name= "2.19ème Division d'Infanterie"
 		type = artillery
 		home = 452
 	}
 
 	regiment = {
-		name= "1.7"
+		name= "2.23ème Division d'Infanterie"
 		type = artillery
 		home = 453
 	}
 
 	regiment = {
-		name= "1.8"
+		name= "2.25ème Division d'Infanterie"
 		type = artillery
 		home = 461
 	}
 
 	regiment = {
-		name= "1.9"
+		name= "2.26ème Division d'Infanterie"
 		type = artillery
 		home = 461
 	}
 	
 	regiment = {
-		name= "1.10"
+		name= "2.27ème Division d'Infanterie"
 		type = artillery
 		home = 468
 	}
@@ -899,61 +899,61 @@ army = {
 	name = "4th Random Army"
 	location = 389
 	regiment = {
-		name= "1.1"
+		name= "2.10ème Division d'Infanterie"
 		type = hussar
 		home = 447
 	}
 
 	regiment = {
-		name= "1.2"
+		name= "L'épée de Dieu"
 		type = infantry
 		home = 446
 	}
 
 	regiment = {
-		name= "1.3"
+		name= "Ma vie est comme un jeu vidéo"
 		type = infantry
 		home = 445
 	}
 
 	regiment = {
-		name= "1.4"
+		name= "j'essaie de battre la scène"
 		type = infantry
 		home = 443
 	}
 
 	regiment = {
-		name= "1.5"
+		name= "Infanterie folle"
 		type = infantry
 		home = 418
 	}
 
 	regiment = {
-		name= "1.6"
+		name= "infanterie folle"
 		type = artillery
 		home = 435
 	}
 
 	regiment = {
-		name= "1.7"
+		name= "1.7infanterie folle"
 		type = artillery
 		home = 434
 	}
 
 	regiment = {
-		name= "1.8"
+		name= "1.8infanterie folle"
 		type = artillery
 		home = 430
 	}
 
 	regiment = {
-		name= "1.9"
+		name= "1.9infanterie folle"
 		type = artillery
 		home = 425
 	}
 	
 	regiment = {
-		name= "1.10"
+		name= "1.10infanterie folle"
 		type = artillery
 		home = 424
 	}
@@ -964,61 +964,61 @@ army = {
 	name = "5th Random Army"
 	location = 388
 	regiment = {
-		name= "1.1"
+		name= "1.1infanterie folle"
 		type = hussar
 		home = 415
 	}
 
 	regiment = {
-		name= "1.2"
-		type = infantry
+		name= "1.2infanterie folle"
+		type = guard
 		home = 414
 	}
 
 	regiment = {
-		name= "1.3"
-		type = infantry
+		name= "1.3infanterie folle"
+		type = guard
 		home = 413
 	}
 
 	regiment = {
-		name= "1.4"
-		type = infantry
+		name= "1.4infanterie folle"
+		type = guard
 		home = 412
 	}
 
 	regiment = {
-		name= "1.5"
-		type = infantry
+		name= "1.5infanterie folle"
+		type = guard
 		home = 396
 	}
 
 	regiment = {
-		name= "1.6"
+		name= "1.6infanterie folle"
 		type = artillery
 		home = 397
 	}
 
 	regiment = {
-		name= "1.7"
+		name= "1.7infanterie folle"
 		type = artillery
 		home = 408
 	}
 
 	regiment = {
-		name= "1.8"
+		name= "1.8infanterie folle"
 		type = artillery
 		home = 405
 	}
 
 	regiment = {
-		name= "1.9"
+		name= "1.9infanterie folle"
 		type = artillery
 		home = 399
 	}
 	
 	regiment = {
-		name= "1.10"
+		name= "1.10infanterie folle"
 		type = artillery
 		home = 398
 	}
@@ -1029,37 +1029,37 @@ army = {
 	location = 2570
 	regiment = {
 		name= "Division de cavalerie"
-		type = cuirassier 
+		type = hussar
 		home = 420
 	}
 
 	regiment = {
 		name= "1 Division d'Infanterie"
-		type = artillery_offensive
+		type = artillery
 		home = 422
 	}
 
 	regiment = {
 		name= "2 Division 'Infanterie"
-		type = artillery_offensive
+		type = artillery
 		home = 423
 	}
 
 	regiment = {
 		name= "3 Division 'Infanterie"
-		type = artillery_offensive
+		type = artillery
 		home = 424
 	}
 
 	regiment = {
 		name= "4 Division 'Infanterie"
-		type = artillery_offensive
+		type = artillery
 		home = 415
 	}
 	
 	regiment = {
 		name= "5 Division d'Infanterie"
-		type = artillery_offensive
+		type = artillery
 		home = 416
 	}
 }
@@ -1069,37 +1069,37 @@ army = {
 	location = 416
 	regiment = {
 		name= "Division de cavalerie"
-		type = cuirassier 
+		type = hussar 
 		home = 417
 	}
 
 	regiment = {
 		name= "1 Division d'Infanterie"
-		type = artillery_offensive
+		type = artillery
 		home = 418
 	}
 
 	regiment = {
 		name= "2 Division 'Infanterie"
-		type = artillery_offensive
+		type = artillery
 		home = 399
 	}
 
 	regiment = {
 		name= "3 Division 'Infanterie"
-		type = artillery_offensive
+		type = artillery
 		home = 401
 	}
 
 	regiment = {
 		name= "4 Division 'Infanterie"
-		type = artillery_offensive
+		type = artillery
 		home = 402
 	}
 	
 	regiment = {
 		name= "5 Division d'Infanterie"
-		type = artillery_offensive
+		type = artillery
 		home = 2570
 	}
 }
@@ -1109,37 +1109,37 @@ army = {
 	location = 426
 	regiment = {
 		name= "Division de cavalerie"
-		type = cuirassier 
+		type = hussar
 		home = 403
 	}
 
 	regiment = {
 		name= "1 Division d'Infanterie"
-		type = artillery_offensive
+		type = artillery
 		home = 404
 	}
 
 	regiment = {
 		name= "2 Division 'Infanterie"
-		type = artillery_offensive
+		type = artillery
 		home = 461
 	}
 
 	regiment = {
 		name= "3 Division 'Infanterie"
-		type = artillery_offensive
+		type = artillery
 		home = 395
 	}
 
 	regiment = {
 		name= "4 Division 'Infanterie"
-		type = artillery_offensive
+		type = artillery
 		home = 396
 	}
 	
 	regiment = {
 		name= "5 Division d'Infanterie"
-		type = artillery_offensive
+		type = artillery
 		home = 406
 	}
 }
@@ -1149,37 +1149,37 @@ army = {
 	location = 425
 	regiment = {
 		name= "Division de cavalerie"
-		type = cuirassier 
+		type = hussar 
 		home = 408
 	}
 
 	regiment = {
 		name= "1 Division d'Infanterie"
-		type = artillery_offensive
+		type = artillery
 		home = 407
 	}
 
 	regiment = {
 		name= "2 Division 'Infanterie"
-		type = artillery_offensive
+		type = artillery
 		home = 411
 	}
 
 	regiment = {
 		name= "3 Division 'Infanterie"
-		type = artillery_offensive
+		type = artillery
 		home = 414
 	}
 
 	regiment = {
 		name= "4 Division 'Infanterie"
-		type = artillery_offensive
+		type = artillery
 		home = 432
 	}
 	
 	regiment = {
 		name= "5 Division d'Infanterie"
-		type = artillery_offensive
+		type = artillery
 		home = 409
 	}
 }
@@ -1189,37 +1189,37 @@ army = {
 	location = 427
 	regiment = {
 		name= "Division de cavalerie"
-		type = dragoon 
+		type = hussar
 		home = 410
 	}
 
 	regiment = {
 		name= "1 Division d'Infanterie"
-		type = artillery_defensive 
+		type = artillery 
 		home = 462
 	}
 
 	regiment = {
 		name= "2 Division 'Infanterie"
-		type = artillery_defensive 
+		type = artillery 
 		home = 428
 	}
 
 	regiment = {
 		name= "3 Division 'Infanterie"
-		type = artillery_defensive 
+		type = artillery
 		home = 429
 	}
 
 	regiment = {
 		name= "4 Division 'Infanterie"
-		type = artillery_defensive 
+		type = artillery
 		home = 430
 	}
 	
 	regiment = {
 		name= "5 Division d'Infanterie"
-		type = artillery_defensive 
+		type = artillery
 		home = 431
 	}
 }
@@ -1229,37 +1229,37 @@ army = {
 	location = 403
 	regiment = {
 		name= "Division de cavalerie"
-		type = dragoon 
+		type = hussar
 		home = 433
 	}
 
 	regiment = {
 		name= "1 Division d'Infanterie"
-		type = artillery_defensive 
+		type = artillery
 		home = 436
 	}
 
 	regiment = {
 		name= "2 Division 'Infanterie"
-		type = artillery_defensive 
+		type = artillery 
 		home = 438
 	}
 
 	regiment = {
 		name= "3 Division 'Infanterie"
-		type = artillery_defensive 
+		type = artillery 
 		home = 440
 	}
 
 	regiment = {
 		name= "4 Division 'Infanterie"
-		type = artillery_defensive 
+		type = artillery
 		home = 441
 	}
 	
 	regiment = {
 		name= "5 Division d'Infanterie"
-		type = artillery_defensive 
+		type = artillery
 		home = 434
 	}
 }
@@ -1268,37 +1268,37 @@ army = {
 	location = 406
 	regiment = {
 		name= "Division de cavalerie"
-		type = dragoon 
+		type = hussar
 		home = 435
 	}
 
 	regiment = {
 		name= "1 Division d'Infanterie"
-		type = artillery_defensive 
+		type = artillery
 		home = 437
 	}
 
 	regiment = {
 		name= "2 Division 'Infanterie"
-		type = artillery_defensive 
+		type = artillery
 		home = 442
 	}
 
 	regiment = {
 		name= "3 Division 'Infanterie"
-		type = artillery_defensive 
+		type = artillery
 		home = 444
 	}
 
 	regiment = {
 		name= "4 Division 'Infanterie"
-		type = artillery_defensive 
+		type = artillery
 		home = 446
 	}
 	
 	regiment = {
 		name= "5 Division d'Infanterie"
-		type = artillery_defensive 
+		type = artillery
 		home = 447
 	}
 }
@@ -1308,37 +1308,37 @@ army = {
 	location = 438
 	regiment = {
 		name= "Division de cavalerie"
-		type = dragoon 
+		type = hussar
 		home = 458
 	}
 
 	regiment = {
 		name= "1 Division d'Infanterie"
-		type = artillery_defensive 
+		type = artillery
 		home = 459
 	}
 
 	regiment = {
 		name= "2 Division 'Infanterie"
-		type = artillery_defensive 
+		type = artillery
 		home = 460
 	}
 
 	regiment = {
 		name= "3 Division 'Infanterie"
-		type = artillery_defensive 
+		type = artillery
 		home = 455
 	}
 
 	regiment = {
 		name= "4 Division 'Infanterie"
-		type = artillery_defensive 
+		type = artillery
 		home = 456
 	}
 	
 	regiment = {
 		name= "5 Division d'Infanterie"
-		type = artillery_defensive 
+		type = artillery
 		home = 457
 	}
 }
