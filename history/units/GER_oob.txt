@@ -1,379 +1,155 @@
 #Army
 leader = {
-	name = "Blucher"
-	date = 1836.1.1
+	name = "Karl von dem Knesebeck"
+	picture = pru_gen_knesebeck
+	date = 1813.1.1
 	type = land
-	personality = implacable
-	background = cursed_luck
+	personality = defence_1.1
+	background = attack_1.1
+	prestige = 0.3
+}
+leader = {
+	name = "Leopold von Boyen"
+	picture = pru_gen_boyen
+	date = 1813.1.1
+	type = land
+	personality = defence_5.1
+	background = attack_5.1
+	prestige = 0.3
+}
+leader = {
+	name = "Karl von Müffling"
+	picture = pru_gen_mueffling
+	date = 1813.1.1
+	type = land
+	personality = defence_5.1
+	background = attack_5.1
+	prestige = 0.3
+}
+leader = {
+	name = "Heinrich von Pfuel"
+	picture = pru_gen_pfuel
+	date = 1813.1.1
+	type = land
+	personality = defence_1.1
+	background = attack_1.1
+	prestige = 0.3
+}
+leader = {
+	name = "Karl von Grolman"
+	picture = pru_gen_grolman
+	date = 1815.1.1
+	type = land
+	personality = defence_1.1
+	background = attack_1.1
+	prestige = 0.3
+}
+leader = {
+	name = "Otto Rühle von Lilienstern"
+	picture = pru_gen_lilienstern
+	date = 1819.1.1
+	type = land
+	personality = defence_1.1
+	background = attack_1.1
+	prestige = 0.3
+}
+leader = {
+	name = "Prinz Wilhelm"
+	picture = pru_gen_prinzwilhelm
+	date = 1820.1.1
+	type = land
+	personality = defence_1.1
+	background = attack_1.1
 	prestige = 0.2
 }
 leader = {
-	name = "Clausewitz"
-	date = 1836.1.1
+	name = "Friedrich zu Dohna-Schlobitten"
+	picture = pru_gen_dohnaschlobitten
+	date = 1822.1.1
 	type = land
-	personality = implacable
-	background = cursed_luck
+	personality = defence_1.1
+	background = attack_1.1
 	prestige = 0.2
 }
-
 leader = {
-	name = "General 1"
-	date = 1836.1.1
+	name = "Friedrich von Wrangel"
+	picture = pru_gen_wrangel
+	date = 1823.1.1
 	type = land
-	personality = no_personality
-	background = aristocrat 
+	personality = defence_1.1
+	background = attack_1.1
 	prestige = 0.2
 }
-
 leader = {
-	name = "General 2"
-	date = 1836.1.1
+	name = "Prinz Karl"
+	picture = pru_gen_prinzkarl
+	date = 1824.1.1
 	type = land
-	personality = no_personality
-	background = aristocrat 
+	personality = defence_1.1
+	background = attack_1.1
 	prestige = 0.2
 }
-
 leader = {
-	name = "General 3"
-	date = 1836.1.1
+	name = "Wilhelm von Krauseneck"
+	picture = pru_gen_krauseneck
+	date = 1829.1.1
 	type = land
-	personality = no_personality
-	background = aristocrat 
+	personality = defence_1.1
+	background = attack_1.1
 	prestige = 0.2
 }
-
 leader = {
-	name = "General 4"
-	date = 1836.1.1
+	name = "Peter von Colomb"
+	picture = pru_gen_colombpeter
+	date = 1829.1.1
 	type = land
-	personality = no_personality
-	background = aristocrat 
+	personality = defence_1.1
+	background = attack_1.1
 	prestige = 0.2
 }
-
 leader = {
-	name = "General 5"
+	name = "August von Neumann-Cosel"
+	picture = pru_gen_neumanncosel
 	date = 1836.1.1
 	type = land
-	personality = no_personality
-	background = aristocrat 
-	prestige = 0.2
+	personality = defence_1.1
+	background = attack_1.1
 }
-
 leader = {
-	name = "General 6"
-	date = 1836.1.1
+	name = "Hans von Zieten"
+	picture = pru_gen_zieten
+	date = 1813.1.1
 	type = land
-	personality = no_personality
-	background = aristocrat 
-	prestige = 0.2
+	personality = defence_1.1
+	background = attack_1.1
+	prestige = 0.3
 }
-
 leader = {
-	name = "General 7"
-	date = 1836.1.1
+	name = "Ludwig von Borstell"
+	picture = pru_gen_borstell
+	date = 1813.1.1
 	type = land
-	personality = no_personality
-	background = aristocrat 
-	prestige = 0.2
+	personality = defence_1.1
+	background = attack_1.1
+	prestige = 0.3
 }
-
 leader = {
-	name = "General 8"
-	date = 1836.1.1
+	name = "Gustav von Rauch"
+	picture = pru_gen_rauch
+	date = 1815.1.1
 	type = land
-	personality = no_personality
-	background = aristocrat 
-	prestige = 0.2
+	personality = defence_1.1
+	background = attack_1.1
+	prestige = 0.3
 }
-
 leader = {
-	name = "General 9"
-	date = 1836.1.1
+	name = "Prinz August"
+	picture = pru_gen_prinzaugust
+	date = 1808.1.1
 	type = land
-	personality = no_personality
-	background = aristocrat 
-	prestige = 0.2
-}
-
-leader = {
-	name = "General 10"
-	date = 1836.1.1
-	type = land
-	personality = no_personality
-	background = aristocrat 
-	prestige = 0.2
-}
-
-leader = {
-	name = "General 11"
-	date = 1836.1.1
-	type = land
-	personality = no_personality
-	background = aristocrat 
-	prestige = 0.2
-}
-
-leader = {
-	name = "General 12"
-	date = 1836.1.1
-	type = land
-	personality = no_personality
-	background = aristocrat 
-	prestige = 0.2
-}
-
-leader = {
-	name = "General 13"
-	date = 1836.1.1
-	type = land
-	personality = no_personality
-	background = aristocrat 
-	prestige = 0.2
-}
-
-leader = {
-	name = "General 14"
-	date = 1836.1.1
-	type = land
-	personality = no_personality
-	background = aristocrat 
-	prestige = 0.2
-}
-
-leader = {
-	name = "General 15"
-	date = 1836.1.1
-	type = land
-	personality = no_personality
-	background = aristocrat 
-	prestige = 0.2
-}
-
-leader = {
-	name = "General 16"
-	date = 1836.1.1
-	type = land
-	personality = no_personality
-	background = aristocrat 
-	prestige = 0.2
-}
-
-leader = {
-	name = "General 17"
-	date = 1836.1.1
-	type = land
-	personality = no_personality
-	background = aristocrat 
-	prestige = 0.2
-}
-
-leader = {
-	name = "General 18"
-	date = 1836.1.1
-	type = land
-	personality = no_personality
-	background = aristocrat 
-	prestige = 0.2
-}
-
-leader = {
-	name = "General 19"
-	date = 1836.1.1
-	type = land
-	personality = no_personality
-	background = aristocrat 
-	prestige = 0.2
-}
-
-leader = {
-	name = "General 20"
-	date = 1836.1.1
-	type = land
-	personality = no_personality
-	background = aristocrat 
-	prestige = 0.2
-}
-
-leader = {
-	name = "General 21"
-	date = 1836.1.1
-	type = land
-	personality = no_personality
-	background = aristocrat 
-	prestige = 0.2
-}
-
-leader = {
-	name = "General 22"
-	date = 1836.1.1
-	type = land
-	personality = no_personality
-	background = aristocrat 
-	prestige = 0.2
-}
-
-leader = {
-	name = "General 23"
-	date = 1836.1.1
-	type = land
-	personality = no_personality
-	background = aristocrat 
-	prestige = 0.2
-}
-
-leader = {
-	name = "General 24"
-	date = 1836.1.1
-	type = land
-	personality = no_personality
-	background = aristocrat 
-	prestige = 0.2
-}
-
-leader = {
-	name = "General 25"
-	date = 1836.1.1
-	type = land
-	personality = no_personality
-	background = aristocrat 
-	prestige = 0.2
-}
-
-leader = {
-	name = "General 26"
-	date = 1836.1.1
-	type = land
-	personality = no_personality
-	background = aristocrat 
-	prestige = 0.2
-}
-
-leader = {
-	name = "General 27"
-	date = 1836.1.1
-	type = land
-	personality = no_personality
-	background = aristocrat 
-	prestige = 0.2
-}
-
-leader = {
-	name = "General 28"
-	date = 1836.1.1
-	type = land
-	personality = no_personality
-	background = aristocrat 
-	prestige = 0.2
-}
-
-leader = {
-	name = "General 29"
-	date = 1836.1.1
-	type = land
-	personality = no_personality
-	background = aristocrat 
-	prestige = 0.2
-}
-
-leader = {
-	name = "General 30"
-	date = 1836.1.1
-	type = land
-	personality = no_personality
-	background = aristocrat 
-	prestige = 0.2
-}
-
-leader = {
-	name = "General 31"
-	date = 1836.1.1
-	type = land
-	personality = no_personality
-	background = aristocrat 
-	prestige = 0.2
-}
-
-leader = {
-	name = "General 32"
-	date = 1836.1.1
-	type = land
-	personality = no_personality
-	background = aristocrat 
-	prestige = 0.2
-}
-
-leader = {
-	name = "General 33"
-	date = 1836.1.1
-	type = land
-	personality = no_personality
-	background = aristocrat 
-	prestige = 0.2
-}
-
-leader = {
-	name = "General 34"
-	date = 1836.1.1
-	type = land
-	personality = no_personality
-	background = aristocrat 
-	prestige = 0.2
-}
-
-leader = {
-	name = "General 35"
-	date = 1836.1.1
-	type = land
-	personality = no_personality
-	background = aristocrat 
-	prestige = 0.2
-}
-
-leader = {
-	name = "General 36"
-	date = 1836.1.1
-	type = land
-	personality = no_personality
-	background = aristocrat 
-	prestige = 0.2
-}
-
-leader = {
-	name = "General 37"
-	date = 1836.1.1
-	type = land
-	personality = no_personality
-	background = aristocrat 
-	prestige = 0.2
-}
-
-leader = {
-	name = "General 38"
-	date = 1836.1.1
-	type = land
-	personality = no_personality
-	background = aristocrat 
-	prestige = 0.2
-}
-
-leader = {
-	name = "General 39"
-	date = 1836.1.1
-	type = land
-	personality = no_personality
-	background = aristocrat 
-	prestige = 0.2
-}
-
-leader = {
-	name = "General 40"
-	date = 1836.1.1
-	type = land
-	personality = no_personality
-	background = aristocrat 
-	prestige = 0.2
+	personality = defence_1.1
+	background = attack_1.1
+	prestige = 0.3
 }
 
 
