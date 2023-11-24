@@ -1188,42 +1188,18 @@
 }
 #Hellas Region (510000)
 #under the rule of Greece in 1836
-#Athens (308000/77000 POPS)
+#Athens (100/100 POPS)
 834 = {
     bureaucrats = {
         culture = greek
         religion = orthodox
-        size = 850
-    }
-
-    officers = {
-        culture = greek
-        religion = orthodox
-        size = 200
-    }
-
-    clergymen = {
-        culture = greek
-        religion = orthodox
-        size = 775
+        size = 1
     }
 
     artisans = {
         culture = greek
         religion = orthodox
-        size = 6500
-    }
-
-    soldiers = {
-        culture = greek
-        religion = orthodox
-        size = 3000
-    }
-
-    farmers = {
-        culture = greek
-        religion = orthodox
-        size = 65675
+        size = 99
     }
 }
 #Amfissa (76000/19000 POPS)
