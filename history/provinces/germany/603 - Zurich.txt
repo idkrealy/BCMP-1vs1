@@ -1,6 +1,6 @@
-owner = SWI
-controller = SWI
-add_core = SWI
+owner = 
+controller = 
+add_core = 
 trade_goods = cattle
 life_rating = 35
 railroad = 1
