@@ -162,27 +162,6 @@ political_decisions = {
 		}
 	}
 	
-	schwabing_circles = {
-		potential = {
-			OR = {
-				tag = BAV
-				tag = SGF
-				tag = GER
-			}
-			owns = 599
-			NOT = {
-				has_country_flag = schwabing_encircled
-			}
-		}
-		allow = {
-			expressionism = 1
-		}
-		effect = {
-			prestige = 20
-			set_country_flag = schwabing_encircled
-		}
-	}
-	
 	support_biesterfelds = {
 		potential = {
 			tag = LIP
@@ -278,57 +257,6 @@ political_decisions = {
 		}
 	}
 	
-	the_heligoland_question = {
-		potential = {
-			tag = GER
-			NOT = {
-				has_country_flag = has_questioned_heligoland
-			}
-		}
-		
-		allow = {
-			OR = {
-				is_greater_power = yes
-				invention = national_fraternity
-			}
-		}
-		
-		effect = {
-			533 = {
-				add_core = GER # Heligoland is my last territorial demand!
-			}
-			set_country_flag = has_questioned_heligoland
-		}
-	}
-	
-	construct_the_walhalla = {
-		potential = {
-			OR = {
-				tag = BAV
-				tag = SGF
-				tag = GER
-			}
-			owns = 602
-			NOT = {
-				has_global_flag = the_walhalla_is_built
-			}
-		}
-		
-		allow = {
-			romanticism = 1
-		}
-		
-		effect = {
-			602 = {
-				add_province_modifier = {
-					name = the_walhalla
-					duration = -1
-				}
-			}
-			set_global_flag = the_walhalla_is_built
-		}
-	}
-	
 	introduce_the_presbyteries = {
 		potential = {
 			tag = HAN
@@ -366,7 +294,8 @@ political_decisions = {
 			}
 		}
 		allow = {
-			army_decision_making = 1
+			army_professionalism = 1
+			iron_breech_loaded_artillery = 1
 		}
 		effect = {
 			add_country_modifier = {

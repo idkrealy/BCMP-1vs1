@@ -36,15 +36,10 @@ school_reforms = no_schools
 	strategic_mobility = 1
 	flintlock_rifles = 1
 	muzzle_loaded_rifles = 1
-	breech_loaded_rifles = 1
 	bronze_muzzle_loaded_artillery = 1
-	iron_muzzle_loaded_artillery = 1
 	military_staff_system = 1
 	military_plans = 1
-	military_statistics = 1
 	army_command_principle = 1
-	army_professionalism = 1
-	army_decision_making = 1
 	
 	post_nelsonian_thought = 1
 	battleship_column_doctrine = 1
