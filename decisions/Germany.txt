@@ -285,6 +285,7 @@ political_decisions = {
 	von_moltkes_staff_reforms = {
 		potential = {
 			OR = {
+				tag = FRA
 				tag = PRU
 				tag = GER
 				tag = NGF
@@ -295,7 +296,7 @@ political_decisions = {
 		}
 		allow = {
 			army_professionalism = 1
-			iron_muzzle_loaded_artillery = 1
+			strategic_mobility = 1
 		}
 		effect = {
 			add_country_modifier = {

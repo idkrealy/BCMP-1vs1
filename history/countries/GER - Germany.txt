@@ -58,7 +58,6 @@ oob = "GER_oob.txt"
 
 # Technologies
 	post_napoleonic_thought = 1
-	strategic_mobility = 1
 	flintlock_rifles = 1
 	muzzle_loaded_rifles = 1
 	bronze_muzzle_loaded_artillery = 1
@@ -68,10 +67,7 @@ oob = "GER_oob.txt"
 	
 	post_nelsonian_thought = 1
 	battleship_column_doctrine = 1
-	raider_group_doctrine = 1
 	clipper_design = 1
-	steamers = 1
-	iron_steamers = 1
 	naval_design_bureaus = 1
 	fire_control_systems = 1
 	alphabetic_flag_signaling = 1
