@@ -2301,37 +2301,37 @@
 #Channel Islands (72000/18000 POPS)
 419 = {
     aristocrats = {
-        culture = british
+        culture = french
         religion = protestant
         size = 100
     }
 
     bureaucrats = {
-        culture = british
+        culture = french
         religion = protestant
         size = 250
     }
 
     clergymen = {
-        culture = british
+        culture = french
         religion = protestant
         size = 125
     }
 
     artisans = {
-        culture = british
+        culture = french
         religion = protestant
         size = 3400
     }
 
     soldiers = {
-        culture = british
+        culture = french
         religion = protestant
         size = 250
     }
 
     farmers = {
-        culture = british
+        culture = french
         religion = protestant
         size = 14075
     }

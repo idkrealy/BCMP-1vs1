@@ -286,10 +286,40 @@
 #Under rule of Britain 1836
 #Heligoland (1600/400 POPS)
 533 = {
+    aristocrats = {
+        culture = north_german
+        religion = protestant
+        size = 100
+    }
+
+    bureaucrats = {
+        culture = north_german
+        religion = protestant
+        size = 250
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 125
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 3400
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = protestant
+        size = 250
+    }
+
     farmers = {
         culture = north_german
         religion = protestant
-        size = 400
+        size = 14075
     }
 }
 #Mecklenburg Region (614000)

@@ -1,6 +1,6 @@
-owner = 
-controller = 
-add_core = 
+owner = FRA
+controller = FRA
+add_core = FRA
 add_core = CAT
 trade_goods = fruit
 life_rating = 35
