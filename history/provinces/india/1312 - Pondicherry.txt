@@ -1,5 +1,5 @@
-owner = FRA
-controller = FRA
+owner = 
+controller = 
 #add_core = KRN
 add_core = 
 naval_base = 1

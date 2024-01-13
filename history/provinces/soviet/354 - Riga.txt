@@ -1,6 +1,6 @@
-owner = 
-controller = 
-add_core = 
+owner = GER
+controller = GER
+add_core = GER
 add_core = LAT
 #add_core = UBD
 #add_core = PLC

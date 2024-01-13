@@ -1,6 +1,6 @@
-owner = FRA
-controller = FRA
-add_core = FRA
+owner = 
+controller = 
+add_core = 
 add_core = WIF
 trade_goods = cotton
 life_rating = 35

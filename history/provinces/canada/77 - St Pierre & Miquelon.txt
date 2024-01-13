@@ -1,6 +1,6 @@
-owner = FRA
-controller = FRA
-add_core = FRA
+owner = 
+controller = 
+add_core = 
 #add_core = NEW
 trade_goods = fish
 life_rating = 35
