@@ -4392,6 +4392,12 @@
         religion = catholic
         size = 1975
     }
+	
+	craftsmen = {
+		culture = north_german
+		region = catholic
+		size = 5000
+	}
 }
 #Siegen (104000/26000 POPS)
 583 = {
@@ -4436,6 +4442,12 @@
         religion = catholic
         size = 1975
     }
+	
+	craftsmen = {
+		culture = north_german
+		region = catholic
+		size = 5000
+	}
 }
 #Korbach (128000/32000 POPS)
 584 = {
@@ -4525,6 +4537,12 @@
         religion = catholic
         size = 1975
     }
+	
+	craftsmen = {
+		culture = north_german
+		region = catholic
+		size = 5000
+	}
 }
 #Baden Region (1040000)
 #under the rule of Baden in 1836
