@@ -4702,57 +4702,40 @@
 588 = {
     aristocrats = {
         culture = south_german
-        religion = catholic
-        size = 350
-    }
-
-    clergymen = {
-        culture = south_german
-        religion = catholic
-        size = 375
-    }
-
-    artisans = {
-        culture = south_german
-        religion = catholic
-        size = 1850
-    }
-
-    soldiers = {
-        culture = south_german
-        religion = catholic
-        size = 400
-    }
-
-    farmers = {
-        culture = south_german
-        religion = catholic
-        size = 34025
+        religion = protestant
+        size = 850
     }
 
     clergymen = {
         culture = south_german
         religion = protestant
-        size = 75
+        size = 825
     }
 
     artisans = {
         culture = south_german
         religion = protestant
-        size = 200
+        size = 4250
     }
 
     soldiers = {
         culture = south_german
         religion = protestant
-        size = 25
+        size = 4000
     }
 
     farmers = {
         culture = south_german
         religion = protestant
-        size = 3700
+        size = 79225
     }
+	
+	craftsmen = {
+		culture = south_german
+		region = protestant
+		size = 3000
+	
+	}
 }
 #Wurttemburg Region (1308000)
 #under the rule of Wurttemburg in 1836
@@ -4855,6 +4838,13 @@
         religion = protestant
         size = 79225
     }
+	
+	craftsmen = {
+		culture = south_german
+		region = protestant
+		size = 4000
+	
+	}
 }
 #Tubingen (292000/73000 POPS)
 591 = {
@@ -4879,7 +4869,7 @@
     soldiers = {
         culture = south_german
         religion = protestant
-        size = 400
+        size = 2400
     }
 
     farmers = {
@@ -4891,19 +4881,19 @@
     clergymen = {
         culture = south_german
         religion = catholic
-        size = 325
+        size = 2325
     }
 
     artisans = {
         culture = south_german
         religion = catholic
-        size = 1750
+        size = 2750
     }
 
     soldiers = {
         culture = south_german
         religion = catholic
-        size = 300
+        size = 2000
     }
 
     farmers = {
@@ -5008,51 +4998,40 @@
 594 = {
     aristocrats = {
         culture = south_german
-        religion = catholic
-        size = 150
-    }
-
-    bureaucrats = {
-        culture = south_german
-        religion = catholic
-        size = 100
-    }
-
-    officers = {
-        culture = south_german
-        religion = catholic
-        size = 15
+        religion = protestant
+        size = 850
     }
 
     clergymen = {
         culture = south_german
-        religion = catholic
-        size = 150
+        religion = protestant
+        size = 825
     }
 
     artisans = {
         culture = south_german
-        religion = catholic
-        size = 775
+        religion = protestant
+        size = 4250
     }
 
     soldiers = {
         culture = south_german
-        religion = catholic
-        size = 845
+        religion = protestant
+        size = 5000
     }
 
     farmers = {
         culture = south_german
-        religion = catholic
-        size = 12840
+        religion = protestant
+        size = 79225
     }
-
-    farmers = {
-        culture = south_german
-        religion = catholic
-        size = 455
-    }
+	
+	craftsmen = {
+		culture = south_german
+		region = protestant
+		size = 4000
+	
+	}
 }
 #Franconia Region (1876000)
 #under the rule of Bavaria in 1836
@@ -5146,33 +5125,40 @@
 596 = {
     aristocrats = {
         culture = south_german
-        religion = catholic
-        size = 350
+        religion = protestant
+        size = 850
     }
 
     clergymen = {
         culture = south_german
-        religion = catholic
-        size = 350
+        religion = protestant
+        size = 825
     }
 
     artisans = {
         culture = south_german
-        religion = catholic
-        size = 1750
+        religion = protestant
+        size = 4250
     }
 
     soldiers = {
         culture = south_german
-        religion = catholic
-        size = 350
+        religion = protestant
+        size = 5000
     }
 
     farmers = {
         culture = south_german
-        religion = catholic
-        size = 31200
+        religion = protestant
+        size = 69225
     }
+	
+	craftsmen = {
+		culture = south_german
+		region = protestant
+		size = 4000
+	
+	}
 }
 #Wurzburg (300000/75000 POPS)
 597 = {
@@ -5360,65 +5346,79 @@
 600 = {
     aristocrats = {
         culture = south_german
-        religion = catholic
-        size = 400
+        religion = protestant
+        size = 850
     }
 
     clergymen = {
         culture = south_german
-        religion = catholic
-        size = 425
+        religion = protestant
+        size = 825
     }
 
     artisans = {
         culture = south_german
-        religion = catholic
-        size = 2000
+        religion = protestant
+        size = 5250
     }
 
     soldiers = {
         culture = south_german
-        religion = catholic
-        size = 450
+        religion = protestant
+        size = 3000
     }
 
     farmers = {
         culture = south_german
-        religion = catholic
-        size = 37725
+        religion = protestant
+        size = 65225
     }
+	
+	craftsmen = {
+		culture = south_german
+		region = protestant
+		size = 2000
+	
+	}
 }
 #Ingolstadt (164000/41000 POPS)
 601 = {
     aristocrats = {
         culture = south_german
-        religion = catholic
-        size = 400
+        religion = protestant
+        size = 850
     }
 
     clergymen = {
         culture = south_german
-        religion = catholic
-        size = 425
+        religion = protestant
+        size = 825
     }
 
     artisans = {
         culture = south_german
-        religion = catholic
-        size = 2000
+        religion = protestant
+        size = 4250
     }
 
     soldiers = {
         culture = south_german
-        religion = catholic
-        size = 1100
+        religion = protestant
+        size = 2000
     }
 
     farmers = {
         culture = south_german
-        religion = catholic
-        size = 37175
+        religion = protestant
+        size = 55225
     }
+	
+	craftsmen = {
+		culture = south_german
+		region = protestant
+		size = 2000
+	
+	}
 }
 #Regensburg (248000/62000 POPS)
 602 = {
