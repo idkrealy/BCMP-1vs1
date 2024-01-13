@@ -39,7 +39,7 @@
 	}
 
 	clergymen = {
-		culture = maghrebi
+		culture = french
 		religion = sunni
 		size = 300
 	}
