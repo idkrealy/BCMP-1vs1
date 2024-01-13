@@ -45,7 +45,7 @@
 	}
 
 	artisans = {
-		culture = maghrebi
+		culture = french
 		religion = sunni
 		size = 4500
 	}
