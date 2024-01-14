@@ -419,7 +419,7 @@
     soldiers = {
         culture = north_german
         religion = protestant
-        size = 10000
+        size = 1000
     }
 
     farmers = {
@@ -675,6 +675,12 @@
         religion = catholic
         size = 4
     }
+	
+	craftsmen = {
+        culture = north_german
+        religion = catholic
+        size = 5000
+    }
 }
 #Oppeln (492000/123000 POPS)
 684 = {
@@ -845,6 +851,12 @@
         religion = catholic
         size = 9
     }
+	
+	craftsmen = {
+        culture = north_german
+        religion = catholic
+        size = 5000
+    }
 }
 #Kattowitz (452000/113000 POPS)
 685 = {
@@ -984,6 +996,12 @@
         culture = czech
         religion = catholic
         size = 35
+    }
+	
+	craftsmen = {
+        culture = north_german
+        religion = catholic
+        size = 5000
     }
 }
 #under the rule of Austria in 1836
@@ -1376,6 +1394,12 @@
         religion = catholic
         size = 385
     }
+	
+	craftsmen = {
+        culture = north_german
+        religion = catholic
+        size = 5000
+    }
 }
 #Torun (156000/44000 POPS)
 694 = {
@@ -1716,6 +1740,12 @@
         religion = catholic
         size = 840
     }
+	
+	craftsmen = {
+        culture = north_german
+        religion = catholic
+        size = 5000
+    }
 }
 #Bromberg (212000/53000 POPS)
 700 = {
@@ -1832,6 +1862,12 @@
         religion = catholic
         size = 70
     }
+	
+	craftsmen = {
+        culture = north_german
+        religion = catholic
+        size = 5000
+    }
 }
 #Gniezno (456000/116000 POPS)
 701 = {
@@ -1947,6 +1983,12 @@
         culture = polish
         religion = catholic
         size = 805
+    }
+	
+	craftsmen = {
+        culture = north_german
+        religion = catholic
+        size = 5000
     }
 }
 #under the rule of Russia in 1836 (496000)

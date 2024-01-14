@@ -323,7 +323,7 @@
     farmers = {
         culture = french
         religion = catholic
-        size = 60100
+        size = 100100
     }
 }
 #Charleville (308000/77000 POPS)
@@ -2319,7 +2319,13 @@
     farmers = {
         culture = french
         religion = catholic
-        size = 61500
+        size = 95500
+    }
+	
+	craftsmen = {
+        culture = french
+        religion = catholic
+        size = 5000
     }
 }
 #Poitou Region (1106000)
@@ -3599,7 +3605,7 @@
     farmers = {
         culture = french
         religion = catholic
-        size = 40950
+        size = 100950
     }
 }
 #Frejus (132000/33000 POPS)

@@ -1595,13 +1595,13 @@
     soldiers = {
         culture = north_german
         religion = protestant
-        size = 10000
+        size = 12000
     }
 
     farmers = {
         culture = north_german
         religion = protestant
-        size = 156950
+        size = 175950
     }
 
     clergymen = {
@@ -2460,6 +2460,12 @@
         religion = jewish
         size = 580
     }
+	
+	craftsmen = {
+        culture = north_german
+        religion = catholic
+        size = 15000
+    }
 }
 #Leipzig (420000/105000 POPS)
 559 = {
@@ -2738,6 +2744,12 @@
         religion = jewish
         size = 580
     }
+	
+	craftsmen = {
+        culture = north_german
+        religion = catholic
+        size = 10000
+    }
 }
 #under the rule of Saxe-Coburg 1836
 #Gotha (292000/73000 POPS)
@@ -2860,6 +2872,12 @@
         culture = north_german
         religion = jewish
         size = 580
+    }
+	
+	craftsmen = {
+        culture = north_german
+        religion = catholic
+        size = 10000
     }
 }
 #under the rule of Saxe-Meiningen 1836
@@ -5031,12 +5049,6 @@
         size = 9500
     }
 
-    soldiers = {
-        culture = south_german
-        religion = protestant
-        size = 7000
-    }
-
     farmers = {
         culture = south_german
         religion = protestant
@@ -5150,17 +5162,18 @@
         size = 2750
     }
 
-    soldiers = {
-        culture = south_german
-        religion = catholic
-        size = 2000
-    }
-
     farmers = {
         culture = south_german
         religion = catholic
         size = 30625
     }
+	
+	craftsmen = {
+		culture = south_german
+		region = protestant
+		size = 4000
+	
+	}
 }
 #Swabia Region (833000)
 #under the rule of Bavaria in 1836
@@ -5209,12 +5222,6 @@
         culture = south_german
         religion = protestant
         size = 550
-    }
-
-    soldiers = {
-        culture = south_german
-        religion = protestant
-        size = 4000
     }
 
     farmers = {
