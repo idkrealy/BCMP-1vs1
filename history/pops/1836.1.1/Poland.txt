@@ -277,7 +277,19 @@
     aristocrats = {
         culture = north_german
         religion = protestant
-        size = 525
+        size = 475
+    }
+
+    bureaucrats = {
+        culture = north_german
+        religion = protestant
+        size = 175
+    }
+
+    officers = {
+        culture = north_german
+        religion = protestant
+        size = 100
     }
 
     clergymen = {
@@ -289,31 +301,61 @@
     artisans = {
         culture = north_german
         religion = protestant
-        size = 2400
+        size = 3300
     }
 
     soldiers = {
         culture = north_german
         religion = protestant
-        size = 1495
+        size = 1300
     }
 
     farmers = {
         culture = north_german
         religion = protestant
-        size = 46125
+        size = 42200
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = catholic
+        size = 525
+    }
+
+    artisans = {
+        culture = north_german
+        religion = catholic
+        size = 3650
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = catholic
+        size = 1300
+    }
+
+    farmers = {
+        culture = north_german
+        religion = catholic
+        size = 46525
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = jewish
+        size = 10
     }
 
     artisans = {
         culture = north_german
         religion = jewish
-        size = 200
+        size = 590
     }
-
-    farmers = {
+	
+	craftsmen = {
         culture = north_german
         religion = protestant
-        size = 805
+        size = 10000
     }
 }
 #Silesia Region (2568000) #see Czechia.txt and Germany.txt for balance of region

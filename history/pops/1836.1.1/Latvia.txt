@@ -93,9 +93,9 @@
     }
 
     soldiers = {
-        culture = russian
+        culture = north_german
         religion = orthodox
-        size = 150
+        size = 5500
     }
 
     clergymen = {
