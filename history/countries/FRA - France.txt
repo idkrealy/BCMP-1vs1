@@ -5,7 +5,7 @@ culture = wallonian
 culture = north_italian
 culture = maghrebi
 religion = catholic
-government = hms_government
+government = democracy
 plurality = 25
 nationalvalue = nv_equality
 literacy = 0.5
@@ -16,23 +16,23 @@ civilized = yes
 prestige = 90
 
 # Political reforms
-slavery = yes_slavery
+slavery = no_slavery
 upper_house_composition = appointed
-vote_franschise = wealth_voting
+vote_franschise = universal_voting
 public_meetings = yes_meeting
-press_rights = censored_press
-trade_unions = no_trade_unions
-voting_system = first_past_the_post
-political_parties = non_secret_ballots
+press_rights = free_press
+trade_unions = all_trade_unions
+voting_system = proportional_representation
+political_parties = secret_ballots
 
 # Social Reforms
-wage_reform = no_minimum_wage
-work_hours = no_work_hour_limit
-safety_regulations = no_safety
-health_care = no_health_care
-unemployment_subsidies = no_subsidies
-pensions = no_pensions 
-school_reforms = no_schools
+wage_reform = trinket_wage
+work_hours = fourteen_hours
+safety_regulations = trinket_safety
+health_care = good_health_care
+unemployment_subsidies = trinket_subsidies
+pensions = trinket_pensions 
+school_reforms = good_schools
 
 # Technologies
 	post_napoleonic_thought = 1
