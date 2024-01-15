@@ -165,12 +165,6 @@ army = {
 	}
 
 	regiment = {
-		name= "II. Linieninfanteriebrigade"
-		type = guard
-		home = 557
-	}
-
-	regiment = {
 		name= "III. Linieninfanteriebrigade"
 		type = guard
 		home = 554
@@ -192,12 +186,6 @@ army = {
 		name= "V. Linieninfanteriebrigade"
 		type = artillery
 		home = 582
-	}
-
-	regiment = {
-		name= "VI. Linieninfanteriebrigade"
-		type = artillery
-		home = 369
 	}
 
 	regiment = {
@@ -616,6 +604,12 @@ army = {
 		type = artillery
 		home = 558
 	}
+	
+	regiment = {
+		name= "VI. Kavalleriebrigadge"
+		type = artillery
+		home = 581
+	}
 }
 
 army = {
@@ -680,6 +674,8 @@ army = {
 		type = artillery
 		home = 568
 	}
+	
+	
 }
 
 army = {
@@ -689,6 +685,12 @@ army = {
 		name= "I. Kavalleriebrigade"
 		type = hussar
 		home = 595
+	}
+
+	regiment = {
+		name= "II. Linieninfanteriebrigade"
+		type = artillery
+		home = 557
 	}
 
 	regiment = {
@@ -743,6 +745,12 @@ army = {
 		name= "X. Kavalleriebrigade"
 		type = artillery
 		home = 599
+	}
+	
+	regiment = {
+		name= "VI. Kavallueriebrigade"
+		type = guard
+		home = 542
 	}
 }
 
@@ -810,7 +818,660 @@ army = {
 	}
 }
 
+navy = {
+	name = "Kaiserliche Marine"
+	location = 369
+	ship = {
+		name= "Couronne"
+		type = frigate
+	}
 
+	ship = {
+		name= "Superbe"
+		type = frigate
+	}
+
+	ship = {
+		name= "Jean Bart"
+		type = frigate
+	}
+
+	ship = {
+		name= "Dix-huit Fructidor"
+		type = frigate
+	}
+
+	ship = {
+		name= "Wagram"
+		type = frigate
+	}
+
+	ship = {
+		name= "Trocadero "
+		type = frigate
+	}
+
+	ship = {
+		name= "Zélandais"
+		type = frigate
+	}
+
+	ship = {
+		name= "Superbe"
+		type = frigate
+	}
+
+	ship = {
+		name= "Austerlitz"
+		type = frigate
+	}
+
+	ship = {
+		name= "Magnifique"
+		type = frigate
+	}
+
+	ship = {
+		name= "République Française"
+		type = frigate
+	}
+
+	ship = {
+		name= "Conquérant"
+		type = frigate
+	}
+
+	ship = {
+		name= "Neptune"
+		type = frigate
+	}
+
+	ship = {
+		name= "Algesiras"
+		type = frigate
+	}
+
+	ship = {
+		name= "Nestor"
+		type = frigate
+	}
+
+	ship = {
+		name= "Duchesse de Berry"
+		type = frigate
+	}
+
+	ship = {
+		name= "Thétis"
+		type = frigate
+	}
+
+	ship = {
+		name= "Astrée"
+		type = frigate
+	}
+
+	ship = {
+		name= "Amazone"
+		type = frigate
+	}
+
+	ship = {
+		name= "Clorinde"
+		type = frigate
+	}
+
+	ship = {
+		name= "Maure"
+		type = frigate
+	}
+
+	ship = {
+		name= "Vestale"
+		type = frigate
+	}
+
+	ship = {
+		name= "Magicienne"
+		type = frigate
+	}
+
+	ship = {
+		name= "Marie Thérese"
+		type = frigate
+	}
+
+	ship = {
+		name= "Venus"
+		type = frigate
+	}
+
+	ship = {
+		name= "Sirène"
+		type = frigate
+	}
+
+	ship = {
+		name= "Atalante"
+		type = frigate
+	}
+
+	ship = {
+		name= "Surveillante"
+		type = frigate
+	}
+
+	ship = {
+		name= "Iphigénie"
+		type = frigate
+	}
+
+	ship = {
+		name= "Sultane"
+		type = frigate
+	}
+
+	ship = {
+		name= "1ère Flotille de Transport"
+		type = frigate
+	}
+
+	ship = {
+		name= "2ème Flotille de Transport"
+		type = frigate
+	}
+
+	ship = {
+		name= "3ème Flotille de Transport"
+		type = frigate
+	}
+
+	ship = {
+		name= "Triton"
+		type = frigate
+	}
+
+	ship = {
+		name= "Etats de Bourgogne"
+		type = frigate
+	}
+
+	ship = {
+		name= "Souverain"
+		type = frigate
+	}
+
+	ship = {
+		name= "Marengo"
+		type = frigate
+	}
+
+	ship = {
+		name= "Ville de Marseilles"
+		type = frigate
+	}
+
+	ship = {
+		name= "Hercule"
+		type = frigate
+	}
+
+	ship = {
+		name= "Montebello "
+		type = frigate
+	}
+
+	ship = {
+		name= "Centaure"
+		type = frigate
+	}
+
+	ship = {
+		name= "Jupiter"
+		type = frigate
+	}
+
+	ship = {
+		name= "Duc d’Angouleme"
+		type = frigate
+	}
+
+	ship = {
+		name= "Hercules"
+		type = frigate
+	}
+
+	ship = {
+		name= "Généreux"
+		type = frigate
+	}
+
+	ship = {
+		name= "Diadème"
+		type = frigate
+	}
+
+	ship = {
+		name= "Couronne"
+		type = frigate
+	}
+
+	ship = {
+		name= "Suffren"
+		type = frigate
+	}
+
+	ship = {
+		name= "Trident"
+		type = frigate
+	}
+
+	ship = {
+		name= "Royal Louis "
+		type = frigate
+	}
+
+	ship = {
+		name= "Commerces de Paris"
+		type = frigate
+	}
+
+	ship = {
+		name= "Terpsichore"
+		type = frigate
+	}
+
+	ship = {
+		name= "Arthémise"
+		type = frigate
+	}
+
+	ship = {
+		name= "Belle Gabrielle"
+		type = frigate
+	}
+
+	ship = {
+		name= "Didon"
+		type = frigate
+	}
+
+	ship = {
+		name= "Caroline"
+		type = frigate
+	}
+
+	ship = {
+		name= "Herminie"
+		type = frigate
+	}
+
+	ship = {
+		name= "Melpomène"
+		type = frigate
+	}
+
+	ship = {
+		name= "Uranie"
+		type = frigate
+	}
+
+	ship = {
+		name= "Andromède"
+		type = frigate
+	}
+
+	ship = {
+		name= "Jeanne d’Arc"
+		type = frigate
+	}
+
+	ship = {
+		name= "Belle Poule"
+		type = frigate
+	}
+
+	ship = {
+		name= "Erigone"
+		type = frigate
+	}
+
+	ship = {
+		name= "Nereide"
+		type = frigate
+	}
+
+	ship = {
+		name= "Gloire"
+		type = frigate
+	}
+
+	ship = {
+		name= "Reine Blanche"
+		type = frigate
+	}
+
+	ship = {
+		name= "4ème Flotille de Transport"
+		type = frigate
+	}
+
+	ship = {
+		name= "5ème Flotille de Transport"
+		type = frigate
+	}
+
+	ship = {
+		name= "6ème Flotille de Transport"
+		type = frigate
+	}
+	
+	ship = {
+		name= "7ème Flotille de Transport"
+		type = frigate
+	}
+	
+	ship = {
+		name= "8ème Flotille de Transport"
+		type = frigate
+	}
+	
+	ship = {
+		name= "9ème Flotille de Transport"
+		type = frigate
+	}
+	
+	ship = {
+		name= "10ème Flotille de Transport"
+		type = frigate
+	}
+	
+	ship = {
+		name= "Dvenadtsat' Apostolov"
+		type = frigate
+	}
+
+	ship = {
+		name= "Poltava"
+		type = frigate
+	}
+
+	ship = {
+		name= "Ratnyi"
+		type = frigate
+	}
+
+	ship = {
+		name= "Hiagudil"
+		type = frigate
+	}
+
+	ship = {
+		name= "Gangut"
+		type = frigate
+	}
+
+	ship = {
+		name= "Ezekiel"
+		type = frigate
+	}
+
+	ship = {
+		name= "Tsar Konstantin"
+		type = frigate
+	}
+
+	ship = {
+		name= "Yaroslav"
+		type = frigate
+	}
+
+	ship = {
+		name= "Izyaslav"
+		type = frigate
+	}
+
+	ship = {
+		name= "Pravyi"
+		type = frigate
+	}
+
+	ship = {
+		name= "Isidor"
+		type = frigate
+	}
+
+	ship = {
+		name= "Anapa"
+		type = frigate
+	}
+
+	ship = {
+		name= "Maria"
+		type = frigate
+	}
+
+	ship = {
+		name= "Dimitri Donskoi"
+		type = frigate
+	}
+
+	ship = {
+		name= "Paraskevia"
+		type = frigate
+	}
+
+	ship = {
+		name= "Sv Ytoslav"
+		type = frigate
+	}
+
+	ship = {
+		name= "Spyesttunyi"
+		type = frigate
+	}
+
+	ship = {
+		name= "Narva"
+		type = frigate
+	}
+
+	ship = {
+		name= "Premyslav"
+		type = frigate
+	}
+
+	ship = {
+		name= "Riga"
+		type = frigate
+	}
+
+	ship = {
+		name= "Viatcheslav"
+		type = frigate
+	}
+
+	ship = {
+		name= "Emmanuel"
+		type = frigate
+	}
+
+	ship = {
+		name= "Borislav"
+		type = frigate
+	}
+
+	ship = {
+		name= "Legkii"
+		type = frigate
+	}
+
+	ship = {
+		name= "3. Transportnaya Flotiliya"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "4. Transportnaya Flotiliya"
+		type = clipper_transport
+	}
+	
+	ship = {
+		name= "Nord Adler"
+		type = frigate
+	}
+
+	ship = {
+		name= "Prints Gustav"
+		type = frigate
+	}
+
+	ship = {
+		name= "Ne Tron Menya"
+		type = frigate
+	}
+
+	ship = {
+		name= "Svyastoslav"
+		type = frigate
+	}
+
+	ship = {
+		name= "Chrabryi"
+		type = frigate
+	}
+
+	ship = {
+		name= "Smelyi"
+		type = frigate
+	}
+
+	ship = {
+		name= "Tri Svyatitelei"
+		type = frigate
+	}
+
+	ship = {
+		name= "Yupiter"
+		type = frigate
+	}
+
+	ship = {
+		name= "Chesma"
+		type = frigate
+	}
+
+	ship = {
+		name= "Mironosets"
+		type = frigate
+	}
+
+	ship = {
+		name= "Asia"
+		type = frigate
+	}
+
+	ship = {
+		name= "Feodor Stralitat"
+		type = frigate
+	}
+
+	ship = {
+		name= "Ioann Bogoslav"
+		type = frigate
+	}
+
+	ship = {
+		name= "Kazanskaia Bogoroditsa"
+		type = frigate
+	}
+
+	ship = {
+		name= "Navarchia V Gospodne"
+		type = frigate
+	}
+
+	ship = {
+		name= "Soshestvie Ducha"
+		type = frigate
+	}
+
+	ship = {
+		name= "Sv Piotr Apostol"
+		type = frigate
+	}
+
+	ship = {
+		name= "Tsar Konstantin"
+		type = frigate
+	}
+
+	ship = {
+		name= "Archipelag"
+		type = frigate
+	}
+
+	ship = {
+		name= "Tickvinskaya Bogoroditsa"
+		type = frigate
+	}
+
+	ship = {
+		name= "Tosmanska"
+		type = frigate
+	}
+
+	ship = {
+		name= "Nazareth"
+		type = frigate
+	}
+
+	ship = {
+		name= "Kronstadt"
+		type = frigate
+	}
+
+	ship = {
+		name= "1. Transportnaya Flotiliya"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "2. Transportnaya Flotiliya"
+		type = clipper_transport
+	}
+	
+	ship = {
+		name= "1. Transportnaya Flotiliya3"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "2. Transportnaya Flotiliya4"
+		type = clipper_transport
+	}
+	
+	ship = {
+		name= "1. Transportnaya Flotiliya5"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "2. Transportnaya Flotiliya6"
+		type = clipper_transport
+	}
+	
+	ship = {
+		name= "1. Transportnaya Flotiliya7"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "2. Transportnaya Flotiliya8"
+		type = clipper_transport
+	}
+	
+}
 
 
 
