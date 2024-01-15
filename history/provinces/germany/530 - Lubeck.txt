@@ -4,6 +4,5 @@ add_core = GER
 #add_core = GER
 trade_goods = fish
 life_rating = 43
-naval_base = 1
 1861.1.1 = { railroad = 3 }
 
