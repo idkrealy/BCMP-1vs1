@@ -295,7 +295,6 @@ political_decisions = {
 			}
 		}
 		allow = {
-			army_professionalism = 1
 			strategic_mobility = 1
 		}
 		effect = {

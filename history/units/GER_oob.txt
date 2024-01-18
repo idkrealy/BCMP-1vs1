@@ -5,7 +5,7 @@ leader = {
 	date = 1813.1.1
 	type = land
 	personality = defence_1.1
-	background = attack_1.1
+	background = attack_3.1
 	prestige = 0.3
 }
 leader = {
@@ -40,7 +40,7 @@ leader = {
 	picture = pru_gen_grolman
 	date = 1815.1.1
 	type = land
-	personality = defence_1.1
+	personality = defence_3.1
 	background = attack_1.1
 	prestige = 0.3
 }
@@ -50,7 +50,7 @@ leader = {
 	date = 1819.1.1
 	type = land
 	personality = defence_1.1
-	background = attack_1.1
+	background = attack_4.1
 	prestige = 0.3
 }
 leader = {
@@ -815,6 +815,70 @@ army = {
 		name= "X. Kavalleriebrigade"
 		type = artillery
 		home = 589
+	}
+}
+
+army = {
+	name = "I. Korps"
+	location = 1709
+	regiment = {
+		name= "I. Linieninfanteriebrigade"
+		type = hussar
+		home = 1709
+	}
+
+	regiment = {
+		name= "III. Linieninfanteriebrigade"
+		type = infantry
+		home = 1726
+	}
+
+	regiment = {
+		name= "I. Pionierbrigade"
+		type = infantry
+		home = 1725
+	}
+
+	regiment = {
+		name= "IV. Linieninfanteriebrigade"
+		type = infantry
+		home = 1725
+	}
+
+	regiment = {
+		name= "V. Linieninfanteriebrigade"
+		type = artillery
+		home = 1728
+	}
+
+	regiment = {
+		name= "I. Artilleriebrigade"
+		type = artillery
+		home = 1708
+	}
+
+	regiment = {
+		name= "XXVII. Linieninfanteriebrigade"
+		type = artillery
+		home = 1727
+	}
+
+	regiment = {
+		name= "XXVIII. Linieninfanteriebrigade"
+		type = artillery
+		home = 1708
+	}
+	
+	regiment = {
+		name= "XXXX. Linieninfanteriebrigade"
+		type = infantry
+		home = 1710
+	}
+	
+	regiment = {
+		name= "XXXXX. Linieninfanteriebrigade"
+		type = artillery
+		home = 1730
 	}
 }
 

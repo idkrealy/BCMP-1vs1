@@ -30,7 +30,7 @@ leader = {
 	picture = fra_gen_harispe
 	date = 1836.1.1
 	type = land
-	personality = defence_1.1
+	personality = defence_3.1
 	background = attack_1.1
 	prestige = 0.3
 }
@@ -40,7 +40,7 @@ leader = {
 	date = 1809.1.1
 	type = land
 	personality = defence_1.1
-	background = attack_1.1
+	background = attack_4.1
 	prestige = 0.3
 }
 leader = {
@@ -192,13 +192,13 @@ army = {
 	regiment = {
 		name= "2.1ère Division d'Infanterie"
 		type = infantry
-		home = 400
+		home = 425
 	}
 
 	regiment = {
 		name= "3.1ère Division d'Infanterie"
 		type = infantry
-		home = 401
+		home = 432
 	}
 
 	regiment = {
@@ -222,7 +222,7 @@ army = {
 	regiment = {
 		name= "1.3ème Division d'Infanterie"
 		type = artillery
-		home = 402
+		home = 432
 	}
 
 	regiment = {
@@ -234,7 +234,7 @@ army = {
 	regiment = {
 		name= "3.3ème Division d'Infanterie"
 		type = artillery
-		home = 399
+		home = 432
 	}
 	
 	regiment = {
@@ -304,7 +304,7 @@ army = {
 	regiment = {
 		name= "1.1ème Division"
 		type = artillery
-		home = 387
+		home = 425
 	}
 }
 army = {
@@ -443,19 +443,19 @@ army = {
 	regiment = {
 		name= "1.8ème Division d'Infanterie"
 		type = hussar
-		home = 387
+		home = 425
 	}
 
 	regiment = {
 		name= "2.8ème Division d'Infanterie"
 		type = guard
-		home = 388
+		home = 402
 	}
 
 	regiment = {
 		name= "3.8ème Division d'Infanterie"
 		type = guard
-		home = 387
+		home = 425
 	}
 
 	regiment = {
@@ -1413,6 +1413,71 @@ navy = {
 		type = clipper_transport
 	}
 	
+}
+
+army = {
+	name = "Force d'intervention Espagnole"
+	location = 1701
+	regiment = {
+		name= "1.8ème Division d'Infanterie"
+		type = hussar
+		home = 1701
+	}
+
+	regiment = {
+		name= "2.8ème Division d'Infanterie"
+		type = infantry
+		home = 1702
+	}
+
+	regiment = {
+		name= "3.8ème Division d'Infanterie"
+		type = infantry
+		home = 1700
+	}
+
+	regiment = {
+		name= "1.9ème Division d'Infanterie"
+		type = infantry
+		home = 1703
+	}
+
+	regiment = {
+		name= "2.9ème Division d'Infanterie"
+		type = infantry
+		home = 1703
+	}
+
+	regiment = {
+		name= "3.9ème Division d'Infanterie"
+		type = artillery
+		home = 1713
+	}
+
+	regiment = {
+		name= "1.2ème Division de cavalerie"
+		type = artillery
+		home = 1707
+	}
+
+	regiment = {
+		name= "2.2ème Division de cavalerie"
+		type = artillery
+		home = 1715
+	}
+
+	regiment = {
+		name= "3.2ème Division de cavalerie"
+		type = artillery
+		home = 1705
+	}
+	
+	regiment = {
+		name= "2.10ème Division d'Infanterie"
+		type = artillery
+		home = 473
+	}
+
 }
 
 
