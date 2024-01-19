@@ -98,7 +98,7 @@
         size = 1155
     }
 
-    farmers = {
+    slaves = {
         culture = polish
         religion = catholic
         size = 4
@@ -154,7 +154,7 @@
         size = 16
     }
 
-    farmers = {
+    slaves = {
         culture = polish
         religion = catholic
         size = 1825
@@ -222,7 +222,7 @@
         size = 65
     }
 
-    farmers = {
+    slaves = {
         culture = north_german
         religion = catholic
         size = 10250
@@ -246,7 +246,7 @@
         size = 16
     }
 
-    farmers = {
+    slaves = {
         culture = polish
         religion = catholic
         size = 1825
@@ -500,7 +500,7 @@
         size = 1750
     }
 
-    craftsmen = {
+    slaves = {
         culture = polish
         religion = catholic
         size = 1000
@@ -512,7 +512,7 @@
         size = 845
     }
 
-    farmers = {
+    slaves = {
         culture = polish
         religion = catholic
         size = 30600
@@ -536,7 +536,7 @@
         size = 9
     }
 
-    farmers = {
+    slaves = {
         culture = polish
         religion = catholic
         size = 455
@@ -622,7 +622,7 @@
         size = 32
     }
 
-    farmers = {
+    slaves = {
         culture = polish
         religion = catholic
         size = 4615
@@ -774,7 +774,7 @@
         size = 625
     }
 
-    artisans = {
+    slaves = {
         culture = polish
         religion = catholic
         size = 2200
@@ -792,7 +792,7 @@
         size = 1495
     }
 
-    farmers = {
+    slaves = {
         culture = polish
         religion = catholic
         size = 56075
@@ -816,7 +816,7 @@
         size = 16
     }
 
-    farmers = {
+    slaves = {
         culture = czech
         religion = catholic
         size = 3725
@@ -938,7 +938,7 @@
         size = 1300
     }
 
-    farmers = {
+    slaves = {
         culture = polish
         religion = catholic
         size = 66675
