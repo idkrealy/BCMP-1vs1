@@ -379,7 +379,7 @@ craftsmen_fix_cooldown_desc;Craftsmen Fix Cooldown is 10 years.;;;;;;;;;;;;;x,,,
 bureaucrats_fix_cooldown;Non-Accepted Bureaucrats Decision Cooldown;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;
 bureaucrats_fix_cooldown_desc;Non-Accepted Bureaucrats Decision Cooldown is 10 years.;;;;;;;;;;;;;x,,,,,,,,,,,,;;;;;;;;;;;
 anti_italy_title;Form Anti-Italy;;;;;;;;;;;;;X,,,,,,,,,,,,,,;;;;;;;;;;;
-anti_italy_desc;Our regional rivals are promoting pan-Italian nationalism in an attempt to legitimize the conquest of their neighbors! We must form a counter bloc to stop their clearly expansionist policy.
+anti_italy_desc;Our regional rivals are promoting pan-Italian nationalism in an attempt to legitimize the conquest of their neighbors! We must form a counter bloc to stop their clearly expansionist policy.;;;;;;;;;;;;;x;;;;;;;;;;;
 italy_victory_title;Italy Has Pervailed!;;;;;;;;;;;;;X,,,,,,,,,,,,,,;;;;;;;;;;;
 italy_victory_desc;The Italian peninsula has been united! No longer will pretender elements exist within Italy.;;;;;;;;;;;;;X,,,,,,,,,,,,,,;;;;;;;;;;;
 anti_italy_victory_title;Anti-Italy Has Prevailed!;;;;;;;;;;;;;X,,,,,,,,,,,,,,;;;;;;;;;;;

@@ -2519,31 +2519,64 @@
     aristocrats = {
         culture = french
         religion = catholic
-        size = 1900
+        size = 950
     }
 
     clergymen = {
         culture = french
         religion = catholic
-        size = 2000
+        size = 1000
     }
 
     artisans = {
         culture = french
         religion = catholic
-        size = 7500
+        size = 3700
     }
 
     soldiers = {
         culture = french
         religion = catholic
-        size = 10000
+        size = 5000
     }
 
     farmers = {
         culture = french
         religion = catholic
-        size = 173600
+        size = 86800
+    }
+}
+
+#Ellut (788000/197000 POPS)
+3298 = {
+    aristocrats = {
+        culture = french
+        religion = catholic
+        size = 950
+    }
+
+    clergymen = {
+        culture = french
+        religion = catholic
+        size = 1000
+    }
+
+    artisans = {
+        culture = french
+        religion = catholic
+        size = 3750
+    }
+
+    soldiers = {
+        culture = french
+        religion = catholic
+        size = 5000
+    }
+
+    farmers = {
+        culture = french
+        religion = catholic
+        size = 86800
     }
 }
 #Auvergne Region (1418000)
