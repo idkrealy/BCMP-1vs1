@@ -1,0 +1,59 @@
+############DUA###########
+
+
+country_event = {
+    id = 10101
+    title = "FAQ1.T"
+    desc = "FAQ1.D"
+
+    is_triggered_only = yes
+
+    option = {
+        name = "10101.A"
+        country_event = 10102
+    }
+
+    option = { name = "10101.B" }
+}
+
+country_event = {
+    id = 10102
+    title = "FAQ1.T"
+    desc = "FAQ2.D"
+	picture = "Bcmp_1vs1_Deluge"
+
+    is_triggered_only = yes
+
+    option = {
+        name = "10102.A"
+        country_event = 10103
+		}
+}
+
+country_event = {
+    id = 10103
+    title = "FAQ1.T"
+    desc = "FAQ3.D"
+	picture = "Bcmp_1vs1_Deluge"
+
+    is_triggered_only = yes
+
+    option = {
+        name = "10103.A"
+        country_event = 10104
+    }
+}
+
+country_event = {
+    id = 10104
+    title = "FAQ1.T"
+    desc = "FAQ4.D"
+	picture = "Bcmp_1vs1_Deluge"
+
+    is_triggered_only = yes
+
+    option = {
+        name = "10104.A"
+        country_event = 10101
+    }
+}

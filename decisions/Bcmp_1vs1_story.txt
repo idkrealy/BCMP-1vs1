@@ -1,0 +1,12 @@
+political_decisions = {
+    FAQ_dec = {
+        alert = no
+
+        potential = { ai = no }
+
+        allow = { year = 1836 }
+
+        effect = { country_event = 10101 }
+        ai_will_do = { factor = 0 }
+    }
+}

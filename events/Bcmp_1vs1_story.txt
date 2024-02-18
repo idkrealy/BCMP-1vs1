@@ -1,0 +1,29 @@
+country_event = {
+    id = 10101
+    title = "FAQ1.T"
+    desc = "FAQ1.D"
+
+    is_triggered_only = yes
+
+    option = {
+        name = "History of the World"
+        country_event = 10102
+    }
+    option = { name = "I'm good thanks" }
+}
+
+country_event = {
+    id = 10102
+    title = "FAQ1.T"
+    desc = "FAQ2.D"
+
+    is_triggered_only = yes
+
+    option = {
+        name = "Okay"
+        country_event = 10101
+    }
+}
+
+
+
