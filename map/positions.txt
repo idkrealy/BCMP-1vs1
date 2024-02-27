@@ -19188,36 +19188,36 @@
 } # Dijon
 
 428 = {
-    unit = {
-        x = 2877.000000
-        y = 1573.000000
-    }
-
     text_position = {
-        x = 2876.800049
-        y = 1569.099976
+        x = 2881.900000
+        y = 1573.550000
     }
 
     text_scale = 2.300000
-    building_construction = {
-        x = 2870.500000
-        y = 1572.300049
-    }
-
-    military_construction = {
-        x = 2867.699951
-        y = 1563.000000
+    unit = {
+        x = 2882.150000
+        y = 1574.000000
     }
 
     factory = {
-        x = 2865.000000
-        y = 1574.000000
+        x = 2883.550000
+        y = 1573.950000
+    }
+
+    building_construction = {
+        x = 2881.450000
+        y = 1571.850000
+    }
+
+    military_construction = {
+        x = 2883.950000
+        y = 1574.550000
     }
 
     building_position = {
         fort = {
-            x = 2888.000000
-            y = 1575.000000
+            x = 2884.650000
+            y = 1573.850000
         }
 
     }
@@ -119465,3 +119465,41 @@
     }
 
 }
+
+3299 = {
+    text_position = {
+        x = 2864.200000
+        y = 1570.200000
+    }
+
+    text_rotation = 0.115643
+    text_scale = 2.300000
+    unit = {
+        x = 2864.250000
+        y = 1571.950000
+    }
+
+    factory = {
+        x = 2865.200000
+        y = 1569.500000
+    }
+
+    building_construction = {
+        x = 2863.350000
+        y = 1570.000000
+    }
+
+    military_construction = {
+        x = 2863.450000
+        y = 1569.000000
+    }
+
+    building_position = {
+        fort = {
+            x = 2862.350000
+            y = 1572.300000
+        }
+
+    }
+
+} # Guangzhouwan

@@ -1768,45 +1768,92 @@
     aristocrats = {
         culture = french
         religion = catholic
-        size = 900
+        size = 450
     }
 
     officers = {
         culture = french
         religion = catholic
-        size = 500
+        size = 250
     }
 
     bureaucrats = {
         culture = french
         religion = catholic
-        size = 5500
+        size = 2750
     }
 
     clergymen = {
         culture = french
         religion = catholic
-        size = 950
+        size = 470
     }
 
     artisans = {
         culture = french
         religion = catholic
-        size = 8000
+        size = 4000
     }
 
     soldiers = {
         culture = french
         religion = catholic
-        size = 1100
+        size = 550
     }
 
     farmers = {
         culture = french
         religion = catholic
-        size = 83650
+        size = 42650
     }
 }
+
+#Burgundy Region (1872000)
+#Dojen (384000/96000 POPS)
+3299 = {
+    aristocrats = {
+        culture = french
+        religion = catholic
+        size = 450
+    }
+
+    officers = {
+        culture = french
+        religion = catholic
+        size = 250
+    }
+
+    bureaucrats = {
+        culture = french
+        religion = catholic
+        size = 2750
+    }
+
+    clergymen = {
+        culture = french
+        religion = catholic
+        size = 470
+    }
+
+    artisans = {
+        culture = french
+        religion = catholic
+        size = 4000
+    }
+
+    soldiers = {
+        culture = french
+        religion = catholic
+        size = 550
+    }
+
+    farmers = {
+        culture = french
+        religion = catholic
+        size = 42650
+    }
+}
+
 #Auxerre (356000/89000 POPS)
 429 = {
     aristocrats = {
