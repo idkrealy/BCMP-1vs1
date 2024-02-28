@@ -1117,315 +1117,201 @@
 #Barcelona (464000/116000 POPS)
 498 = {
     aristocrats = {
-        culture = catalan
-        religion = catholic
-        size = 1700
-    }
-
-    officers = {
-        culture = catalan
-        religion = catholic
-        size = 200
-    }
-
-    bureaucrats = {
-        culture = catalan
-        religion = catholic
-        size = 2750
-    }
-
-    clergymen = {
-        culture = catalan
-        religion = catholic
-        size = 825
-    }
-
-    artisans = {
-        culture = catalan
-        religion = catholic
-        size = 10000
-    }
-
-    artisans = {
-        culture = catalan
-        religion = catholic
-        size = 10000
-    }
-
-    artisans = {
-        culture = catalan
-        religion = catholic
-        size = 10000
-    }
-
-    artisans = {
-        culture = catalan
-        religion = catholic
-        size = 1100
-    }
-
-    soldiers = {
-        culture = catalan
-        religion = catholic
-        size = 2000
-    }
-
-    farmers = {
-        culture = catalan
-        religion = catholic
-        size = 53225
-    }
-
-    aristocrats = {
-        culture = spanish
-        religion = catholic
-        size = 500
-    }
-
-    officers = {
-        culture = spanish
+        culture = french
         religion = catholic
         size = 100
     }
 
-    bureaucrats = {
-        culture = spanish
+    clergymen = {
+        culture = french
+        religion = catholic
+        size = 150
+    }
+
+    artisans = {
+        culture = french
         religion = catholic
         size = 1000
     }
 
-    clergymen = {
-        culture = spanish
-        religion = catholic
-        size = 275
-    }
-
-    artisans = {
-        culture = spanish
-        religion = catholic
-        size = 9000
-    }
-
     soldiers = {
-        culture = spanish
-        religion = catholic
-        size = 300
-    }
-
-    farmers = {
-        culture = spanish
-        religion = catholic
-        size = 16125
-    }
-}
-#Gerona (228000/57000 POPS)
-499 = {
-    aristocrats = {
-        culture = catalan
-        religion = catholic
-        size = 750
-    }
-
-    clergymen = {
-        culture = catalan
-        religion = catholic
-        size = 350
-    }
-
-    artisans = {
-        culture = catalan
-        religion = catholic
-        size = 1750
-    }
-
-    soldiers = {
-        culture = catalan
-        religion = catholic
-        size = 350
-    }
-
-    farmers = {
-        culture = catalan
-        religion = catholic
-        size = 33300
-        militancy = 8
-        rebel_type = carlist_rebels
-    }
-
-    aristocrats = {
-        culture = spanish
-        religion = catholic
-        size = 450
-    }
-
-    clergymen = {
-        culture = spanish
-        religion = catholic
-        size = 200
-    }
-
-    artisans = {
-        culture = spanish
-        religion = catholic
-        size = 1100
-    }
-
-    soldiers = {
-        culture = spanish
-        religion = catholic
-        size = 250
-    }
-
-    farmers = {
-        culture = spanish
-        religion = catholic
-        size = 18600
-    }
-}
-#Lerida (164000/41000 POPS)
-500 = {
-    aristocrats = {
-        culture = catalan
-        religion = catholic
-        size = 550
-        militancy = 8
-        rebel_type = carlist_rebels
-    }
-
-    clergymen = {
-        culture = catalan
-        religion = catholic
-        size = 250
-        militancy = 8
-        rebel_type = carlist_rebels
-    }
-
-    artisans = {
-        culture = catalan
-        religion = catholic
-        size = 2750
-        militancy = 8
-        rebel_type = carlist_rebels
-    }
-
-    soldiers = {
-        culture = catalan
-        religion = catholic
-        size = 275
-        militancy = 8
-        rebel_type = carlist_rebels
-    }
-
-    farmers = {
-        culture = catalan
-        religion = catholic
-        size = 24150
-        militancy = 8
-        rebel_type = carlist_rebels
-    }
-
-    aristocrats = {
-        culture = spanish
-        religion = catholic
-        size = 200
-    }
-
-    clergymen = {
-        culture = spanish
-        religion = catholic
-        size = 125
-    }
-
-    artisans = {
-        culture = spanish
-        religion = catholic
-        size = 1250
-    }
-
-    soldiers = {
-        culture = spanish
+        culture = french
         religion = catholic
         size = 150
     }
 
     farmers = {
-        culture = spanish
+        culture = french
         religion = catholic
-        size = 11275
+        size = 14300
+    }
+
+    officers = {
+        culture = french
+        religion = catholic
+        size = 100
+    }
+
+    bureaucrats = {
+        culture = french
+        religion = catholic
+        size = 200
+    }
+
+    craftsmen = {
+        culture = french
+        religion = catholic
+        size = 200
+    }
+}
+#Gerona (228000/57000 POPS)
+499 = {
+    aristocrats = {
+        culture = french
+        religion = catholic
+        size = 100
+    }
+
+    clergymen = {
+        culture = french
+        religion = catholic
+        size = 150
+    }
+
+    artisans = {
+        culture = french
+        religion = catholic
+        size = 1000
+    }
+
+    soldiers = {
+        culture = french
+        religion = catholic
+        size = 150
+    }
+
+    farmers = {
+        culture = french
+        religion = catholic
+        size = 14300
+    }
+
+    officers = {
+        culture = french
+        religion = catholic
+        size = 100
+    }
+
+    bureaucrats = {
+        culture = french
+        religion = catholic
+        size = 200
+    }
+
+    craftsmen = {
+        culture = french
+        religion = catholic
+        size = 200
+    }
+}
+#Lerida (164000/41000 POPS)
+500 = {
+    aristocrats = {
+        culture = french
+        religion = catholic
+        size = 100
+    }
+
+    clergymen = {
+        culture = french
+        religion = catholic
+        size = 150
+    }
+
+    artisans = {
+        culture = french
+        religion = catholic
+        size = 1000
+    }
+
+    soldiers = {
+        culture = french
+        religion = catholic
+        size = 150
+    }
+
+    farmers = {
+        culture = french
+        religion = catholic
+        size = 14300
+    }
+
+    officers = {
+        culture = french
+        religion = catholic
+        size = 100
+    }
+
+    bureaucrats = {
+        culture = french
+        religion = catholic
+        size = 200
+    }
+
+    craftsmen = {
+        culture = french
+        religion = catholic
+        size = 200
     }
 }
 #Tarragona (244000/61000 POPS)
 501 = {
     aristocrats = {
-        culture = catalan
+        culture = french
         religion = catholic
-        size = 850
-        militancy = 8
-        rebel_type = carlist_rebels
+        size = 100
     }
 
     clergymen = {
-        culture = catalan
+        culture = french
         religion = catholic
-        size = 400
-        militancy = 8
-        rebel_type = carlist_rebels
+        size = 150
     }
 
     artisans = {
-        culture = catalan
+        culture = french
         religion = catholic
-        size = 2000
+        size = 1000
     }
 
     soldiers = {
-        culture = catalan
+        culture = french
         religion = catholic
-        size = 400
-        militancy = 8
-        rebel_type = carlist_rebels
+        size = 150
     }
 
     farmers = {
-        culture = catalan
+        culture = french
         religion = catholic
-        size = 37850
-        militancy = 8
-        rebel_type = carlist_rebels
+        size = 14300
     }
 
-    aristocrats = {
-        culture = spanish
+    officers = {
+        culture = french
         religion = catholic
-        size = 450
-        militancy = 8
-        rebel_type = carlist_rebels
+        size = 100
     }
 
-    clergymen = {
-        culture = spanish
-        religion = catholic
-        size = 200
-        militancy = 8
-        rebel_type = carlist_rebels
-    }
-
-    artisans = {
-        culture = spanish
-        religion = catholic
-        size = 1100
-    }
-
-    soldiers = {
-        culture = spanish
+    bureaucrats = {
+        culture = french
         religion = catholic
         size = 200
     }
 
-    farmers = {
-        culture = spanish
+    craftsmen = {
+        culture = french
         religion = catholic
-        size = 17650
+        size = 200
     }
 }
 #Balearics (240000/60000 POPS)
