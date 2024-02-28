@@ -3503,33 +3503,67 @@
     aristocrats = {
         culture = french
         religion = catholic
-        size = 1350
+        size = 850
     }
 
     clergymen = {
         culture = french
         religion = catholic
-        size = 1375
+        size = 875
     }
 
     artisans = {
         culture = french
         religion = catholic
-        size = 7000
+        size = 4000
     }
 
     soldiers = {
         culture = french
         religion = catholic
-        size = 1400
+        size = 800
     }
 
     farmers = {
         culture = french
         religion = catholic
-        size = 130675
+        size = 70675
     }
 }
+
+#Mont de Marsan (556000/139000 POPS)
+3311 = {
+    aristocrats = {
+        culture = french
+        religion = catholic
+        size = 850
+    }
+
+    clergymen = {
+        culture = french
+        religion = catholic
+        size = 875
+    }
+
+    artisans = {
+        culture = french
+        religion = catholic
+        size = 4000
+    }
+
+    soldiers = {
+        culture = french
+        religion = catholic
+        size = 800
+    }
+
+    farmers = {
+        culture = french
+        religion = catholic
+        size = 70675
+    }
+}
+
 #Pau (676000/169000 POPS)
 460 = {
     aristocrats = {
@@ -3712,33 +3746,67 @@
     aristocrats = {
         culture = french
         religion = catholic
-        size = 1200
+        size = 700
     }
 
     clergymen = {
         culture = french
         religion = catholic
-        size = 1250
+        size = 750
     }
 
     artisans = {
         culture = french
         religion = catholic
-        size = 6500
+        size = 3500
     }
 
     soldiers = {
         culture = french
         religion = catholic
-        size = 1300
+        size = 800
     }
 
     farmers = {
         culture = french
         religion = catholic
-        size = 115750
+        size = 75750
     }
 }
+
+#Zedaz (504000/126000 POPS)
+3310 = {
+    aristocrats = {
+        culture = french
+        religion = catholic
+        size = 700
+    }
+
+    clergymen = {
+        culture = french
+        religion = catholic
+        size = 750
+    }
+
+    artisans = {
+        culture = french
+        religion = catholic
+        size = 3500
+    }
+
+    soldiers = {
+        culture = french
+        religion = catholic
+        size = 800
+    }
+
+    farmers = {
+        culture = french
+        religion = catholic
+        size = 75750
+    }
+}
+
 #Carcassone (276000/69000 POPS)
 463 = {
     aristocrats = {
