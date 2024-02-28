@@ -18374,31 +18374,36 @@
 
 408 = {
     text_position = {
-        x = 2870.500000
-        y = 1606.000000
+        x = 2874.550000
+        y = 1611.250000
     }
 
-    text_rotation = 6.283185
-    text_scale = 2.600000
-    building_construction = {
-        x = 2875.899902
-        y = 1612.800049
-    }
-
-    military_construction = {
-        x = 2874.000000
-        y = 1606.000000
+    text_rotation = 5.902679
+    text_scale = 2.400000
+    unit = {
+        x = 2874.450000
+        y = 1612.900000
     }
 
     factory = {
-        x = 2864.399902
-        y = 1611.300049
+        x = 2873.650000
+        y = 1611.100000
+    }
+
+    building_construction = {
+        x = 2875.300000
+        y = 1610.150000
+    }
+
+    military_construction = {
+        x = 2876.250000
+        y = 1609.600000
     }
 
     building_position = {
         fort = {
-            x = 2879.899902
-            y = 1607.300049
+            x = 2876.800000
+            y = 1608.550000
         }
 
     }
@@ -19053,21 +19058,26 @@
 } # Paris
 
 425 = {
+    text_position = {
+        x = 2838.050000
+        y = 1601.250000
+    }
+
+    text_rotation = 5.526148
+    text_scale = 2.700000
     unit = {
         x = 2839.000000
         y = 1602.000000
     }
 
-    text_rotation = 5.323253
-    text_position = {
-        x = 2838.000000
-        y = 1598.900024
-    }
-
-    text_scale = 2.500000
     city = {
         x = 2835.699951
         y = 1605.199951
+    }
+
+    factory = {
+        x = 2847.399902
+        y = 1607.099976
     }
 
     building_construction = {
@@ -19078,11 +19088,6 @@
     military_construction = {
         x = 2843.300049
         y = 1600.000000
-    }
-
-    factory = {
-        x = 2847.399902
-        y = 1607.099976
     }
 
     building_position = {
@@ -19101,25 +19106,25 @@
 } # Chartres
 
 426 = {
+    text_position = {
+        x = 2824.650000
+        y = 1594.400000
+    }
+
+    text_scale = 2.400000
     unit = {
         x = 2829.000000
         y = 1597.000000
     }
 
-    text_position = {
-        x = 2828.300049
-        y = 1593.599976
-    }
-
-    text_scale = 2.400000
-    building_construction = {
-        x = 2830.199951
-        y = 1590.800049
-    }
-
     factory = {
         x = 2823.199951
         y = 1600.000000
+    }
+
+    building_construction = {
+        x = 2830.199951
+        y = 1590.800049
     }
 
     building_position = {
@@ -19202,44 +19207,36 @@
 } # Auxerre
 
 429 = {
-    unit = {
-        x = 2869.000000
-        y = 1582.000000
-    }
-
     text_position = {
-        x = 2868.600098
-        y = 1579.800049
+        x = 2860.900000
+        y = 1581.950000
     }
 
     text_scale = 2.300000
-    building_construction = {
-        x = 2878.000000
-        y = 1585.000000
-    }
-
-    military_construction = {
-        x = 2875.000000
-        y = 1580.000000
+    unit = {
+        x = 2861.150000
+        y = 1581.950000
     }
 
     factory = {
-        x = 2876.300049
-        y = 1587.800049
+        x = 2859.250000
+        y = 1582.050000
+    }
+
+    building_construction = {
+        x = 2861.400000
+        y = 1580.750000
+    }
+
+    military_construction = {
+        x = 2862.100000
+        y = 1582.350000
     }
 
     building_position = {
         fort = {
-            x = 2861.000000
-            y = 1579.000000
-        }
-
-    }
-
-    spawn_railway_track = {
-        {
-            x = 2868.000000
-            y = 1589.000000
+            x = 2860.250000
+            y = 1582.950000
         }
 
     }
@@ -19348,31 +19345,36 @@
 
 432 = {
     text_position = {
-        x = 2905.000000
-        y = 1574.699951
+        x = 2907.500000
+        y = 1581.700000
     }
 
     text_rotation = 6.283185
     text_scale = 2.400000
-    building_construction = {
-        x = 2903.000000
-        y = 1585.000000
-    }
-
-    military_construction = {
-        x = 2904.000000
-        y = 1572.300049
+    unit = {
+        x = 2907.900000
+        y = 1583.150000
     }
 
     factory = {
-        x = 2895.199951
-        y = 1574.000000
+        x = 2906.250000
+        y = 1583.300000
+    }
+
+    building_construction = {
+        x = 2910.500000
+        y = 1581.200000
+    }
+
+    military_construction = {
+        x = 2906.550000
+        y = 1583.900000
     }
 
     building_position = {
         fort = {
-            x = 2910.000000
-            y = 1582.000000
+            x = 2910.200000
+            y = 1579.900000
         }
 
     }
@@ -19830,42 +19832,42 @@
 } # Châteauroux
 
 446 = {
-    unit = {
-        x = 2836.000000
-        y = 1559.000000
-    }
-
     text_position = {
-        x = 2834.300049
-        y = 1557.000000
+        x = 2831.150000
+        y = 1563.850000
     }
 
-    text_rotation = 5.585052
+    text_rotation = 0.010050
     text_scale = 2.000000
-    building_construction = {
-        x = 2828.500000
-        y = 1567.300049
-    }
-
-    military_construction = {
-        x = 2837.000000
-        y = 1553.000000
+    unit = {
+        x = 2830.200000
+        y = 1563.800000
     }
 
     factory = {
-        x = 2843.100098
-        y = 1554.599976
+        x = 2831.150000
+        y = 1565.750000
+    }
+
+    building_construction = {
+        x = 2830.900000
+        y = 1562.900000
+    }
+
+    military_construction = {
+        x = 2832.000000
+        y = 1565.000000
     }
 
     building_position = {
         fort = {
-            x = 2840.899902
-            y = 1544.000000
+            x = 2832.200000
+            y = 1565.700000
         }
 
         railroad = {
-            x = 2837.000000
-            y = 1556.000000
+            x = 2833.700000
+            y = 1563.850000
         }
 
     }
@@ -20181,33 +20183,41 @@
 
 456 = {
     text_position = {
-        x = 2831.000000
-        y = 1507.800049
+        x = 2834.750000
+        y = 1508.800000
     }
 
+    text_rotation = 5.886852
     text_scale = 2.200000
-    building_position = {
-        railroad = {
-            x = 2826.899902
-            y = 1509.199951
-        }
-
+    unit = {
+        x = 2835.550000
+        y = 1508.450000
     }
 
-    spawn_railway_track = {
-        {
-            x = 2817.899902
-            y = 1515.999756
+    factory = {
+        x = 2836.450000
+        y = 1509.350000
+    }
+
+    building_construction = {
+        x = 2836.200000
+        y = 1507.150000
+    }
+
+    military_construction = {
+        x = 2833.250000
+        y = 1509.350000
+    }
+
+    building_position = {
+        fort = {
+            x = 2836.400000
+            y = 1507.950000
         }
 
-        {
-            x = 0.000000
-            y = 0.000000
-        }
-
-        {
-            x = 2827.601563
-            y = 1505.900269
+        railroad = {
+            x = 2835.250000
+            y = 1510.350000
         }
 
     }
@@ -119657,6 +119667,234 @@
 
     building_rotation = {
         naval_base = 0.015074
+    }
+
+} # Guangzhouwan
+
+3304 = {
+    text_position = {
+        x = 2817.850000
+        y = 1514.550000
+    }
+
+    text_rotation = 5.727250
+    text_scale = 2.200000
+    unit = {
+        x = 2818.850000
+        y = 1514.000000
+    }
+
+    factory = {
+        x = 2817.300000
+        y = 1514.350000
+    }
+
+    building_construction = {
+        x = 2818.200000
+        y = 1515.000000
+    }
+
+    military_construction = {
+        x = 2816.950000
+        y = 1515.950000
+    }
+
+    building_position = {
+        fort = {
+            x = 2819.900000
+            y = 1513.100000
+        }
+
+    }
+
+} # Guangzhouwan
+
+3305 = {
+    text_position = {
+        x = 2839.190000
+        y = 1552.378333
+    }
+
+    text_rotation = 6.013851
+    text_scale = 2.200000
+    unit = {
+        x = 2839.810000
+        y = 1552.791667
+    }
+
+    factory = {
+        x = 2839.810000
+        y = 1553.205000
+    }
+
+    building_construction = {
+        x = 2840.688333
+        y = 1552.120000
+    }
+
+    military_construction = {
+        x = 2839.241667
+        y = 1553.876667
+    }
+
+    building_position = {
+        fort = {
+            x = 2839.965000
+            y = 1554.135000
+        }
+
+    }
+
+} # Guangzhouwan
+
+3306 = {
+    text_position = {
+        x = 2875.150000
+        y = 1583.700000
+    }
+
+    text_rotation = 0.100166
+    text_scale = 2.200000
+    unit = {
+        x = 2875.400000
+        y = 1583.400000
+    }
+
+    factory = {
+        x = 2875.050000
+        y = 1585.550000
+    }
+
+    building_construction = {
+        x = 2874.100000
+        y = 1585.700000
+    }
+
+    military_construction = {
+        x = 2876.150000
+        y = 1586.000000
+    }
+
+    building_position = {
+        fort = {
+            x = 2875.050000
+            y = 1585.550000
+        }
+
+    }
+
+} # Guangzhouwan
+
+3307 = {
+    text_position = {
+        x = 2902.400000
+        y = 1571.650000
+    }
+
+    text_rotation = 0.055220
+    text_scale = 2.200000
+    unit = {
+        x = 2901.750000
+        y = 1573.000000
+    }
+
+    factory = {
+        x = 2902.100000
+        y = 1571.300000
+    }
+
+    building_construction = {
+        x = 2901.450000
+        y = 1571.100000
+    }
+
+    military_construction = {
+        x = 2903.650000
+        y = 1571.400000
+    }
+
+    building_position = {
+        fort = {
+            x = 2899.100000
+            y = 1576.100000
+        }
+
+    }
+
+} # Guangzhouwan
+
+3308 = {
+    text_position = {
+        x = 2866.750000
+        y = 1603.750000
+    }
+
+    text_rotation = 5.982100
+    text_scale = 2.200000
+    unit = {
+        x = 2866.900000
+        y = 1604.450000
+    }
+
+    factory = {
+        x = 2862.800000
+        y = 1605.150000
+    }
+
+    building_construction = {
+        x = 2863.300000
+        y = 1606.950000
+    }
+
+    military_construction = {
+        x = 2865.250000
+        y = 1606.550000
+    }
+
+    building_position = {
+        fort = {
+            x = 2867.750000
+            y = 1602.400000
+        }
+
+    }
+
+} # Guangzhouwan
+
+3309 = {
+    text_position = {
+        x = 2832.000000
+        y = 1599.950000
+    }
+
+    text_rotation = 5.297606
+    text_scale = 1.500000
+    unit = {
+        x = 2832.150000
+        y = 1600.300000
+    }
+
+    factory = {
+        x = 2832.550000
+        y = 1599.800000
+    }
+
+    building_construction = {
+        x = 2831.400000
+        y = 1601.350000
+    }
+
+    military_construction = {
+        x = 2833.250000
+        y = 1599.250000
+    }
+
+    building_position = {
+        fort = {
+            x = 2833.700000
+            y = 1601.250000
+        }
+
     }
 
 } # Guangzhouwan
