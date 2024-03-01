@@ -3,313 +3,300 @@
 #Tunis (488000/122000 POPS) 
 1725 = {
 	aristocrats = {
-		culture = maghrebi
-		religion = sunni
-		size = 2350
-	}
-
-	bureaucrats = {
-		culture = maghrebi
-		religion = sunni
-		size = 350
-	}
-
-	officers = {
-		culture = maghrebi
-		religion = sunni
-		size = 325
+		culture = south_german
+		religion = protestant
+		size = 400
 	}
 
 	clergymen = {
-		culture = maghrebi
-		religion = sunni
-		size = 1200
+		culture = south_german
+		religion = protestant
+		size = 600
 	}
 
 	artisans = {
-		culture = maghrebi
-		religion = sunni
-		size = 10000
-	}
-
-	artisans = {
-		culture = maghrebi
-		religion = sunni
-		size = 10000
-	}
-
-	artisans = {
-		culture = maghrebi
-		religion = sunni
-		size = 7500
-	}
-
-	soldiers = {
-		culture = maghrebi
-		religion = sunni
+		culture = south_german
+		religion = protestant
 		size = 4000
 	}
 
+	soldiers = {
+		culture = south_german
+		religion = protestant
+		size = 3300
+	}
+
 	farmers = {
-		culture = maghrebi
-		religion = sunni
-		size = 76425
+		culture = south_german
+		religion = protestant
+		size = 57200
 	}
 
-	slaves = {
-		culture = afro_asiatic
-		religion = animist
-		size = 5000
+	officers = {
+		culture = south_german
+		religion = protestant
+		size = 400
 	}
 
-	clergymen = {
-		culture = sephardic
-		religion = jewish
-		size = 75
-	}
+	bureaucrats = {
+		culture = south_german
+		religion = protestant
+		size = 800
+	}	
 
-	artisans = {
-		culture = sephardic
-		religion = jewish
-		size = 3725
-	}
-
-	artisans = {
-		culture = maltese
-		religion = catholic
-		size = 500
-	}
-
-	artisans = {
-		culture = south_italian
-		religion = catholic
-		size = 500
+	craftsmen = {
+		culture = south_german
+		religion = protestant
+		size = 800
 	}
 }
 #Bizerte (268000/67000 POPS) 
 1726 = {
 	aristocrats = {
-		culture = maghrebi
-		religion = sunni
-		size = 1250
+		culture = south_german
+		religion = protestant
+		size = 400
 	}
 
 	clergymen = {
-		culture = maghrebi
-		religion = sunni
-		size = 675
+		culture = south_german
+		religion = protestant
+		size = 600
 	}
 
 	artisans = {
-		culture = maghrebi
-		religion = sunni
-		size = 3250
+		culture = south_german
+		religion = protestant
+		size = 4000
 	}
 
 	soldiers = {
-		culture = maghrebi
-		religion = sunni
-		size = 1100
+		culture = south_german
+		religion = protestant
+		size = 3300
 	}
 
 	farmers = {
-		culture = maghrebi
-		religion = sunni
-		size = 58575
+		culture = south_german
+		religion = protestant
+		size = 57200
 	}
 
-	slaves = {
-		culture = afro_asiatic
-		religion = animist
-		size = 2000
+	officers = {
+		culture = south_german
+		religion = protestant
+		size = 400
 	}
 
-	clergymen = {
-		culture = sephardic
-		religion = jewish
-		size = 5
-	}
+	bureaucrats = {
+		culture = south_german
+		religion = protestant
+		size = 800
+	}	
 
-	artisans = {
-		culture = sephardic
-		religion = jewish
-		size = 245
+	craftsmen = {
+		culture = south_german
+		religion = protestant
+		size = 800
 	}
 }
 #Gafsa (112000/28000 POPS) 
 1727 = {
 	aristocrats = {
-		culture = maghrebi
-		religion = sunni
-		size = 450
+		culture = south_german
+		religion = protestant
+		size = 400
 	}
 
 	clergymen = {
-		culture = maghrebi
-		religion = sunni
-		size = 275
+		culture = south_german
+		religion = protestant
+		size = 600
 	}
 
 	artisans = {
-		culture = maghrebi
-		religion = sunni
-		size = 1250
+		culture = south_german
+		religion = protestant
+		size = 4000
 	}
 
 	soldiers = {
-		culture = maghrebi
-		religion = sunni
-		size = 1100
+		culture = south_german
+		religion = protestant
+		size = 3300
 	}
 
 	farmers = {
-		culture = maghrebi
-		religion = sunni
-		size = 22025
+		culture = south_german
+		religion = protestant
+		size = 57200
 	}
 
-	slaves = {
-		culture = afro_asiatic
-		religion = animist
-		size = 3000
+	officers = {
+		culture = south_german
+		religion = protestant
+		size = 400
+	}
+
+	bureaucrats = {
+		culture = south_german
+		religion = protestant
+		size = 800
+	}	
+
+	craftsmen = {
+		culture = south_german
+		religion = protestant
+		size = 800
 	}
 }
 #Kairouan (228000/57000 POPS) 
 1728 = {
 	aristocrats = {
-		culture = maghrebi
-		religion = sunni
-		size = 875
-	}
-
-	clergymen = {
-		culture = maghrebi
-		religion = sunni
+		culture = south_german
+		religion = protestant
 		size = 400
 	}
 
+	clergymen = {
+		culture = south_german
+		religion = protestant
+		size = 600
+	}
+
 	artisans = {
-		culture = maghrebi
-		religion = sunni
-		size = 2250
+		culture = south_german
+		religion = protestant
+		size = 4000
 	}
 
 	soldiers = {
-		culture = maghrebi
-		religion = sunni
-		size = 1100
+		culture = south_german
+		religion = protestant
+		size = 3300
 	}
 
 	farmers = {
-		culture = maghrebi
-		religion = sunni
-		size = 40225
+		culture = south_german
+		religion = protestant
+		size = 57200
 	}
 
-	slaves = {
-		culture = afro_asiatic
-		religion = animist
-		size = 12000
+	officers = {
+		culture = south_german
+		religion = protestant
+		size = 400
 	}
 
-	clergymen = {
-		culture = sephardic
-		religion = jewish
-		size = 5
-	}
+	bureaucrats = {
+		culture = south_german
+		religion = protestant
+		size = 800
+	}	
 
-	artisans = {
-		culture = sephardic
-		religion = jewish
-		size = 245
+	craftsmen = {
+		culture = south_german
+		religion = protestant
+		size = 800
 	}
 }
 #Tozeur (96000/24000 POPS) 
 1729 = {
 	aristocrats = {
-		culture = maghrebi
-		religion = sunni
-		size = 350
+		culture = south_german
+		religion = protestant
+		size = 400
 	}
 
 	clergymen = {
-		culture = maghrebi
-		religion = sunni
-		size = 200
+		culture = south_german
+		religion = protestant
+		size = 600
 	}
 
 	artisans = {
-		culture = maghrebi
-		religion = sunni
-		size = 950
+		culture = south_german
+		religion = protestant
+		size = 4000
 	}
 
 	soldiers = {
-		culture = maghrebi
-		religion = sunni
-		size = 200
+		culture = south_german
+		religion = protestant
+		size = 3300
 	}
 
 	farmers = {
-		culture = maghrebi
-		religion = sunni
-		size = 17300
+		culture = south_german
+		religion = protestant
+		size = 57200
 	}
 
-	slaves = {
-		culture = afro_asiatic
-		religion = animist
-		size = 5000
+	officers = {
+		culture = south_german
+		religion = protestant
+		size = 400
+	}
+
+	bureaucrats = {
+		culture = south_german
+		religion = protestant
+		size = 800
+	}	
+
+	craftsmen = {
+		culture = south_german
+		religion = protestant
+		size = 800
 	}
 }
 #Gabes (200000/50000 POPS) 
 1730 = {
 	aristocrats = {
-		culture = maghrebi
-		religion = sunni
-		size = 900
-	}
-
-	clergymen = {
-		culture = maghrebi
-		religion = sunni
+		culture = south_german
+		religion = protestant
 		size = 400
 	}
 
+	clergymen = {
+		culture = south_german
+		religion = protestant
+		size = 600
+	}
+
 	artisans = {
-		culture = maghrebi
-		religion = sunni
-		size = 2275
-	}
-
-	soldiers = {
-		culture = maghrebi
-		religion = sunni
-		size = 1100
-	}
-
-	farmers = {
-		culture = maghrebi
-		religion = sunni
-		size = 40825
-	}
-
-	slaves = {
-		culture = afro_asiatic
-		religion = animist
+		culture = south_german
+		religion = protestant
 		size = 4000
 	}
 
-	clergymen = {
-		culture = sephardic
-		religion = jewish
-		size = 10
+	soldiers = {
+		culture = south_german
+		religion = protestant
+		size = 3300
 	}
 
-	artisans = {
-		culture = sephardic
-		religion = jewish
-		size = 490
+	farmers = {
+		culture = south_german
+		religion = protestant
+		size = 57200
 	}
 
+	officers = {
+		culture = south_german
+		religion = protestant
+		size = 400
+	}
+
+	bureaucrats = {
+		culture = south_german
+		religion = protestant
+		size = 800
+	}	
+
+	craftsmen = {
+		culture = south_german
+		religion = protestant
+		size = 800
+	}
 }

@@ -1,6 +1,6 @@
-owner = GER
-controller = GER
-add_core = GER
+owner =
+controller = 
+add_core = 
 #add_core = SCA
 trade_goods = grain
 life_rating = 40

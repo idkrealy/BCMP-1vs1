@@ -4,11 +4,6 @@ add_core = GER
 trade_goods = cattle
 life_rating = 36
 naval_base = 1
-#state_building = {
-#	level = 1
-#	building = glass_factory
-#	upgrade = yes
-#}
 1861.1.1 = {
 	state_building = {
 		level = 1

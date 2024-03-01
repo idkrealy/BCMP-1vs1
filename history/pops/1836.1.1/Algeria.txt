@@ -410,244 +410,153 @@
 #Bone (68000/17000 POPS)
 1709 = {
 	aristocrats = {
-		culture = french
-		religion = catholic
-		size = 25
+		culture = south_german
+		religion = protestant
+		size = 400
+	}
+
+	clergymen = {
+		culture = south_german
+		religion = protestant
+		size = 600
+	}
+
+	artisans = {
+		culture = south_german
+		religion = protestant
+		size = 4000
+	}
+
+	soldiers = {
+		culture = south_german
+		religion = protestant
+		size = 3300
+	}
+
+	farmers = {
+		culture = south_german
+		religion = protestant
+		size = 57200
+	}
+
+	officers = {
+		culture = south_german
+		religion = protestant
+		size = 400
 	}
 
 	bureaucrats = {
-		culture = french
-		religion = catholic
-		size = 50
-	}
+		culture = south_german
+		religion = protestant
+		size = 800
+	}	
 
-	clergymen = {
-		culture = french
-		religion = catholic
-		size = 25
-	}
-
-	artisans = {
-		culture = french
-		religion = catholic
-		size = 600
-	}
-
-	soldiers = {
-		culture = french
-		religion = catholic
-		size = 1100
-	}
-
-	farmers = {
-		culture = french
-		religion = catholic
-		size = 200
-	}
-
-	clergymen = {
-		culture = maghrebi
-		religion = sunni
-		size = 50
-	}
-
-	artisans = {
-		culture = maghrebi
-		religion = sunni
-		size = 600
-	}
-
-	soldiers = {
-		culture = maghrebi
-		religion = sunni
-		size = 150
-	}
-
-	farmers = {
-		culture = maghrebi
-		religion = sunni
-		size = 11200
-	}
-
-	clergymen = {
-		culture = berber
-		religion = sunni
-		size = 10
-	}
-
-	artisans = {
-		culture = berber
-		religion = sunni
-		size = 50
-	}
-
-	soldiers = {
-		culture = berber
-		religion = sunni
-		size = 15
-	}
-
-	farmers = {
-		culture = berber
-		religion = sunni
-		size = 925
+	craftsmen = {
+		culture = south_german
+		religion = protestant
+		size = 800
 	}
 }
 #Ruled by Aljazair 1836
 #Constantine (176000/44000 POPS)
 1708 = {
 	aristocrats = {
-		culture = maghrebi
-		religion = sunni
-		size = 250
+		culture = south_german
+		religion = protestant
+		size = 400
+	}
+
+	clergymen = {
+		culture = south_german
+		religion = protestant
+		size = 600
+	}
+
+	artisans = {
+		culture = south_german
+		religion = protestant
+		size = 4000
+	}
+
+	soldiers = {
+		culture = south_german
+		religion = protestant
+		size = 3300
+	}
+
+	farmers = {
+		culture = south_german
+		religion = protestant
+		size = 57200
 	}
 
 	officers = {
-		culture = maghrebi
-		religion = sunni
-		size = 50
+		culture = south_german
+		religion = protestant
+		size = 400
 	}
 
 	bureaucrats = {
-		culture = maghrebi
-		religion = sunni
-		size = 75
-	}
+		culture = south_german
+		religion = protestant
+		size = 800
+	}	
 
-	clergymen = {
-		culture = maghrebi
-		religion = sunni
-		size = 213
-	}
-
-	artisans = {
-		culture = maghrebi
-		religion = sunni
-		size = 1100
-	}
-
-	soldiers = {
-		culture = maghrebi
-		religion = sunni
-		size = 1100
-	}
-
-	farmers = {
-		culture = maghrebi
-		religion = sunni
-		size = 19312
-	}
-
-	aristocrats = {
-		culture = berber
-		religion = sunni
-		size = 200
-	}
-
-	officers = {
-		culture = berber
-		religion = sunni
-		size = 25
-	}
-
-	clergymen = {
-		culture = berber
-		religion = sunni
-		size = 200
-	}
-
-	artisans = {
-		culture = berber
-		religion = sunni
-		size = 1025
-	}
-
-	soldiers = {
-		culture = berber
-		religion = sunni
-		size = 1100
-	}
-
-	farmers = {
-		culture = berber
-		religion = sunni
-		size = 19550
-	}
-
-	clergymen = {
-		culture = sephardic
-		religion = jewish
-		size = 25
-	}
-
-	artisans = {
-		culture = sephardic
-		religion = jewish
-		size = 975
+	craftsmen = {
+		culture = south_german
+		religion = protestant
+		size = 800
 	}
 }
 #Biskra (100000/25000 POPS)
 1710 = {
 	aristocrats = {
-		culture = maghrebi
-		religion = sunni
-		size = 150
+		culture = south_german
+		religion = protestant
+		size = 400
 	}
 
 	clergymen = {
-		culture = maghrebi
-		religion = sunni
-		size = 150
+		culture = south_german
+		religion = protestant
+		size = 600
 	}
 
 	artisans = {
-		culture = maghrebi
-		religion = sunni
-		size = 750
+		culture = south_german
+		religion = protestant
+		size = 4000
 	}
 
 	soldiers = {
-		culture = maghrebi
-		religion = sunni
-		size = 1100
+		culture = south_german
+		religion = protestant
+		size = 3300
 	}
 
 	farmers = {
-		culture = maghrebi
-		religion = sunni
-		size = 12950
+		culture = south_german
+		religion = protestant
+		size = 57200
 	}
 
-	aristocrats = {
-		culture = berber
-		religion = sunni
-		size = 100
+	officers = {
+		culture = south_german
+		religion = protestant
+		size = 400
 	}
 
-	clergymen = {
-		culture = berber
-		religion = sunni
-		size = 100
-	}
+	bureaucrats = {
+		culture = south_german
+		religion = protestant
+		size = 800
+	}	
 
-	artisans = {
-		culture = berber
-		religion = sunni
-		size = 500
+	craftsmen = {
+		culture = south_german
+		religion = protestant
+		size = 800
 	}
-
-	soldiers = {
-		culture = berber
-		religion = sunni
-		size = 100
-	}
-
-	farmers = {
-		culture = berber
-		religion = sunni
-		size = 9200
-	}
-
 }
 #Wargla Region (152000)
 #uncolonized in 1836
@@ -704,63 +613,51 @@
 #Tuggurt (12000/3000 POPS)
 1712 = {
 	aristocrats = {
-		culture = berber
-		religion = sunni
-		size = 20
+		culture = south_german
+		religion = protestant
+		size = 200
 	}
 
 	clergymen = {
-		culture = berber
-		religion = sunni
-		size = 30
+		culture = south_german
+		religion = protestant
+		size = 400
 	}
 
 	artisans = {
-		culture = berber
-		religion = sunni
-		size = 80
+		culture = south_german
+		religion = protestant
+		size = 2000
 	}
 
 	soldiers = {
-		culture = berber
-		religion = sunni
-		size = 20
+		culture = south_german
+		religion = protestant
+		size = 2300
 	}
 
 	farmers = {
-		culture = berber
-		religion = sunni
-		size = 1850
+		culture = south_german
+		religion = protestant
+		size = 37200
 	}
 
-	aristocrats = {
-		culture = maghrebi
-		religion = sunni
-		size = 10
+	officers = {
+		culture = south_german
+		religion = protestant
+		size = 400
 	}
 
-	clergymen = {
-		culture = maghrebi
-		religion = sunni
-		size = 20
-	}
+	bureaucrats = {
+		culture = south_german
+		religion = protestant
+		size = 400
+	}	
 
-	artisans = {
-		culture = maghrebi
-		religion = sunni
-		size = 50
-	}
-
-	soldiers = {
-		culture = maghrebi
-		religion = sunni
-		size = 20
-	}
-
-	farmers = {
-		culture = maghrebi
-		religion = sunni
-		size = 900
+	craftsmen = {
+		culture = south_german
+		religion = protestant
+		size = 400
 	}
 }
 #Laghwat (104000/26000 POPS)

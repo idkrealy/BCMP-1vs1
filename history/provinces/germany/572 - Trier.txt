@@ -5,16 +5,6 @@ add_core = GER
 trade_goods = iron
 life_rating = 42
 fort = 1
-state_building = {
-	level = 1
-	building = small_arms_factory
-	upgrade = yes
-}
-state_building = {
-	level = 2
-	building = canned_food_factory
-	upgrade = yes
-}
 #state_building = {
 #	level = 1
 #	building = glass_factory

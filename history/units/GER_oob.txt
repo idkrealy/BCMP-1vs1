@@ -357,6 +357,12 @@ army = {
 		type = hussar
 		home = 547
 	}
+	
+	regiment = {
+		name= "III. Linieninfanteriebrigade"
+		type = infantry
+		home = 1726
+	}
 
 	regiment = {
 		name= "XX. Linieninfanteriebrigade"
@@ -568,6 +574,12 @@ army = {
 		type = infantry
 		home = 545
 	}
+	
+	regiment = {
+		name= "VI. Kavalleriebrigade"
+		type = artillery
+		home = 589
+	}
 
 	regiment = {
 		name= "V. Kavalleriebrigade"
@@ -688,12 +700,6 @@ army = {
 	}
 
 	regiment = {
-		name= "II. Linieninfanteriebrigade"
-		type = artillery
-		home = 557
-	}
-
-	regiment = {
 		name= "II. Kavalleriebrigade"
 		type = guard
 		home = 597
@@ -714,12 +720,6 @@ army = {
 	regiment = {
 		name= "V. Kavalleriebrigade"
 		type = guard
-		home = 589
-	}
-
-	regiment = {
-		name= "VI. Kavalleriebrigade"
-		type = artillery
 		home = 589
 	}
 
