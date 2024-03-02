@@ -20,6 +20,35 @@ political_decisions = {
 		}
 	}
 	
+	napoleon_staff_reforms = {
+		potential = {
+			OR = {
+				tag = FRA
+			}
+			NOT = {
+				has_country_flag = von_nap
+			}
+		}
+		allow = {
+			strategic_mobility = 1
+		}
+		effect = {
+			add_country_modifier = {
+				name = french_general_staff
+				duration = 10950
+			}
+			prestige = 5
+			set_country_flag = von_nap
+		}
+		ai_will_do = {
+			factor = 1
+			modifier = {
+				factor = 0
+				war = no
+			}
+		}
+	}
+	
 	french_military_mission_to_japan = {
 		potential = {
 			tag = FRA

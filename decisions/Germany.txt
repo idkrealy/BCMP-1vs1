@@ -285,7 +285,6 @@ political_decisions = {
 	von_moltkes_staff_reforms = {
 		potential = {
 			OR = {
-				tag = FRA
 				tag = PRU
 				tag = GER
 				tag = NGF

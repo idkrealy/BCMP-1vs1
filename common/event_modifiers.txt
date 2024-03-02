@@ -625,11 +625,19 @@ ruhr_boom = {
 }
 
 prussian_general_staff = {
-	org_regain = 0.2
-	land_organisation = 0.15
-	land_unit_start_experience = 3.5
-	supply_consumption = -0.15
+	org_regain = 0.1
+	land_organisation = 0.10
+	land_unit_start_experience = 4.5
+	supply_consumption = -0.10
 	icon = 15
+}
+
+french_general_staff = {
+	org_regain = 0.1
+	land_organisation = 0.10
+	land_unit_start_experience = 4.5
+	supply_consumption = -0.10
+	icon = Bcmp_1vs1_french_reform
 }
 
 ##### Boer War #####
