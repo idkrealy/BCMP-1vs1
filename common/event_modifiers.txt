@@ -637,7 +637,7 @@ french_general_staff = {
 	land_organisation = 0.10
 	land_unit_start_experience = 4.5
 	supply_consumption = -0.10
-	icon = Bcmp_1vs1_french_reform
+	icon = napoleon_staff_reforms
 }
 
 ##### Boer War #####

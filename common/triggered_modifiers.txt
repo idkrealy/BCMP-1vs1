@@ -684,3 +684,45 @@ save_the_nation5  = {
 	mobilisation_economy_impact = -0.66
 	icon = 9
 }
+
+### Wartime Tax ###
+
+taxhigh = {
+	trigger = {
+		has_country_flag = taxhigh
+		war = yes
+		is_mobilised = yes
+	}
+	tax_efficiency = 0.4
+	war_exhaustion = 5
+}
+
+taxmedium = {
+	trigger = {
+		has_country_flag = taxmedium
+		war = yes
+		is_mobilised = yes
+	}
+	tax_efficiency = 0.2
+	war_exhaustion = 3
+}
+
+taxlow = {
+	trigger = {
+		has_country_flag = taxlow
+		war = yes
+		is_mobilised = yes
+	}
+	tax_efficiency = 0.05
+	war_exhaustion = 2
+}
+
+taxno = {
+	trigger = {
+		has_country_flag = taxno
+		war = yes
+		is_mobilised = yes
+	}
+	war_exhaustion = -0.5
+	icon = 18
+}

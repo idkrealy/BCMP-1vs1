@@ -21,6 +21,9 @@ political_decisions = {
 	}
 	
 	napoleon_staff_reforms = {
+	
+		picture = "napoleon_staff_reforms"
+		
 		potential = {
 			OR = {
 				tag = FRA
@@ -46,7 +49,9 @@ political_decisions = {
 				factor = 0
 				war = no
 			}
+			
 		}
+		
 	}
 	
 	french_military_mission_to_japan = {
