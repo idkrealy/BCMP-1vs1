@@ -24,6 +24,3 @@ country_event = {
         country_event = 10101
     }
 }
-
-
-
