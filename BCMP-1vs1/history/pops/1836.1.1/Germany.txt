@@ -4809,91 +4809,91 @@
 #Freiburg (244000/61000 POPS)
 587 = {
     aristocrats = {
-		culture = north_german
+		culture = south_german
 		religion = catholic
 		size = 600
 	}
 
 	bureaucrats = {
-		culture = north_german
+		culture = south_german
 		religion = catholic
 		size = 2250
 	}
 
 	capitalists = {
-		culture = north_german
+		culture = south_german
 		religion = catholic
 		size = 7
 	}
 
 	officers = {
-		culture = north_german
+		culture = south_german
 		religion = catholic
 		size = 250
 	}
 
 	clergymen = {
-		culture = north_german
+		culture = south_german
 		religion = catholic
 		size = 612
 	}
 
 	clerks = {
-		culture = north_german
+		culture = south_german
 		religion = catholic
 		size = 62
 	}
 
 	craftsmen = {
-		culture = north_german
+		culture = south_german
 		religion = catholic
 		size = 1125
 	}
 
 	artisans = {
-		culture = north_german
+		culture = south_german
 		religion = catholic
 		size = 5000
 	}
 
 	artisans = {
-		culture = north_german
+		culture = south_german
 		religion = catholic
 		size = 1812
 	}
 
 	soldiers = {
-		culture = north_german
+		culture = south_german
 		religion = catholic
 		size = 1000
 	}
 
 	farmers = {
-		culture = north_german
+		culture = south_german
 		religion = catholic
 		size = 48005
 	}
 
 	clerks = {
-		culture = north_german
+		culture = south_german
 		religion = jewish
 		size = 12
 	}
 
 	craftsmen = {
-		culture = north_german
+		culture = south_german
 		religion = jewish
 		size = 75
 	}
 
 	artisans = {
-		culture = north_german
+		culture = south_german
 		religion = jewish
 		size = 282
 	}
 
 	farmers = {
-		culture = north_german
+		culture = south_german
 		religion = catholic
 		size = 1560
 	}
