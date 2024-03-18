@@ -1,0 +1,29 @@
+;;;;;;;;;;;;;;;;;x
+FAQ_dec_title;The story;;;;;;;;;;;;;;;;;x
+FAQ_dec_desc;The story;;;;;;;;;;;;;;;;;x
+10101.A;History of the World;;;;;;;;;;;;;;;;;x
+10101.B;I'm good thanks;;;;;;;;;;;;;;;;;x
+10102.A;Okay;;;;;;;;;;;;;;;;;x
+10103.A;Okay;;;;;;;;;;;;;;;;;x
+10104.A;Okay;;;;;;;;;;;;;;;;;x
+FAQ1.T;After the Deluge;;;;;;;;;;;;;;;;;x
+FAQ1.D;The story;;;;;;;;;;;;;;;;;x
+FAQ2.D;In late 1834, the world was seized by millions of screams, and then silence. \n \n Only two nations remained. \n \n Terror spread throughout the land, and confusion reigned.\n \n ;;;;;;;;;;;;;;;;;x
+FAQ3.D;With no interference, the German states unified under Prussia, too busy trying to quell the masses. Free from interference, the Prussians built themselves a throne of bayonets and sat upon it. \n \n France had no one else to support its monarchy. Soon after the incident of 1834, the monarchy was disposed of, and the liberals took power.;;;;;;;;;;;;;;;;;x
+FAQ4.D;After navigating their respective crises, both nations looked at each other with unease and distrust. Accusations regarding the events of 1834 began to surface.Resources were scarce, and colonizing proved to be harder than expected, they could not grow their own food. Africa proved pivotal for addressing the food shortage, and both nations focused on blocking each other from expanding.\n \n As the price of bread in Paris rose, so did tensions.Both nations' armies stared each other down, seeking a �Rfinal solution �!to their problems.;;;;;;;;;;;;;;;;;x
+napoleon_staff_reforms_title;Reform of the french army;;;;;;;;;;;;;;;;;x
+napoleon_staff_reforms_desc;I need more mann i need more man!!!!!;;;;;;;;;;;;;;;;;x
+taxhigh;High Wartime Taxes;;;;;;;;;;X;;;;;;;
+taxmedium;Medium Wartime Taxes;;;;;;;;;;X;;;;;;;
+taxlow;Low Wartime Taxes;;;;;;;;;;X;;;;;;;
+taxno;No Wartime Taxes;;;;;;;;;;X;;;;;;;
+taxhigh_title;Enact High Wartime Taxes;;;;;;;;;;X;;;;;;;
+taxmedium_title;Enact Medium Wartime Taxes;;;;;;;;;;X;;;;;;;
+taxlow_title;Enact Low Wartime Taxes;;;;;;;;;;X;;;;;;;
+taxno_title;Enact No Wartime Taxes;;;;;;;;;;X;;;;;;;
+changetax_title;Revise Wartime Tax Levels;;;;;;;;;;X;;;;;;;
+taxhigh_desc;Our country is in a state of war which consumes a lot of money. We should enact high wartime taxes to avoid bankruptcy.\n\n�YThe modifiers for this level are:�W\n�RMonthly War Exhaustion: 3�W\n�GTax Efficiency: +10%�W;;;;;;;;;;X;;;;;;;
+taxmedium_desc;Our country is in a state of war which consumes a lot of money. We should enact medium wartime taxes to avoid bankruptcy.\n\n�YThe modifiers for this level are:�W\n�RMonthly War Exhaustion: 2�W\n�GTax Efficiency: +5%�W;;;;;;;;;;X;;;;;;;
+taxlow_desc;Our country is in a state of war which consumes a lot of money. We should enact low wartime taxes to avoid bankruptcy.\n\n�YThe modifiers for this level are:�W\n�RMonthly War Exhaustion: 1�W\n�GTax Efficiency: +2.5%�W;;;;;;;;;;X;;;;;;;
+taxno_desc;Our country is in a state of war which consumes a lot of money however we have a lot of money. We should enact no wartime taxes to incurring excessive war exhaustion.\n\n�YThe modifiers for this level are:�W\n�GMonthly War Exhaustion: -1�W;;;;;;;;;;X;;;;;;;
+changetax_desc;War is no cheap and can be very expensive if it becomes long drawn. The crisis has however given our $MONARCHTITLE$ emergency power to impose exceptional taxes for the duration of the war. We should this power to help balance our fiscal books, if necessary.;;;;;;;;;;X;;;;;;;

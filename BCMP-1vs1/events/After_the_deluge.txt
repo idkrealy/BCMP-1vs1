@@ -1,0 +1,37 @@
+#Starting money
+country_event = {
+	id = 607458
+	allow_multiple_instances = no
+	
+	trigger = {
+	ai = no
+	NOT = { has_global_flag = ATD_MOD_ACTIVE }
+	}
+	
+	NOT = {
+		OR = {
+			has_global_flag = ATD_MOD_ACTIVE
+		}
+	}
+	
+	mean_time_to_happen = {
+		days = 1
+	}
+	
+	title = "money"
+	desc = "Giorgo i need money."
+	picture = "money"
+	
+	immediate = {
+		GER = { money = 1000000 }
+		FRA = { money = 1000000 }
+	}
+	
+	option = {
+		set_global_flag = ATD_MOD_ACTIVE
+		name = "Joe biden i need..."		
+	}
+	
+}
+
+

@@ -1,3 +1,4 @@
+
 political_decisions = {
     FAQ_dec = {
         alert = no

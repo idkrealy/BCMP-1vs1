@@ -726,3 +726,9 @@ taxno = {
 	war_exhaustion = -0.5
 	icon = 18
 }
+
+ATD_MOD_ACTIVE = {
+	trigger = {
+	tax_efficiency = -10
+	}
+}

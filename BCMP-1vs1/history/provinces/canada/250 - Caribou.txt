@@ -1,6 +1,6 @@
-owner = 
-controller = 
-add_core = CAN
+owner = USA
+controller = USA
+add_core = USA
 #add_core = NEN
 add_core = 
 trade_goods = timber

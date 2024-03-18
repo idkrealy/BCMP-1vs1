@@ -1,6 +1,6 @@
-owner = 
-controller = 
-add_core = 
+owner = USA
+controller = USA
+add_core = USA
 trade_goods = iron
 life_rating = 40
 railroad = 1

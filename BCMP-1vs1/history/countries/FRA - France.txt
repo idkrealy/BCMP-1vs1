@@ -54,7 +54,6 @@ school_reforms = good_schools
 	naval_professionalism = 1
 	
 	private_banks = 1
-	stock_exchange = 1
 	no_standard = 1
 	ad_hoc_money_bill_printing = 1
 	private_bank_money_bill_printing = 1
@@ -81,20 +80,15 @@ school_reforms = good_schools
 	#phenomenalism = 1
 	
 	water_wheel_power = 1
-	practical_steam_engine = 1
-	high_n_low_pressure_steam_engines = 1
 	publishing_industry = 1
 	mechanical_production = 1
-	interchangeable_parts = 1
 	mechanized_mining = 1
 	clean_coal = 1
 	cheap_iron = 1
 	experimental_railroad = 1
 	early_railroad = 1
-	iron_railroad = 1
 	basic_chemistry = 1
 	medicine = 1
-	inorganic_chemistry = 1
 
 # Inventions
 #corvettes = yes
